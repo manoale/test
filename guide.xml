@@ -1,1700 +1,2626 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="AMC">
-    <display-name lang="pt">AMC</display-name>
+  <channel id="GNT">
+    <display-name lang="pt">Globo SP HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <programme start="20180920010500 -0300" stop="20180920030000 -0300" channel="AMC">
-    <title lang="pt">Bem-Vindo à Selva</title>
-    <desc lang="pt">Um incansável caçador de recompensas recebe uma nova incumbência: ir para a selva brasileira e achar o filho de um mafioso. Mas o interesse numa peça de ouro e as ações de um ambicioso homem da região atrapalham seus planos(n)</desc>
+  <programme start="20180920000000 -0300" stop="20180920003000 -0300" channel="GNT">
+    <title lang="pt">O Amor é Lindo</title>
+    <desc lang="pt">O Amor é Lindo é uma série que celebra o amor em diferentes momentos da vida. Em cada episódio, dois casais, um completando bodas e outro se casando, revelam o que os mantém unidos através dos anos(n)</desc>
     <credits>
-      <director>Peter Berg</director>
-      <actor>The Rock</actor>
-      <actor>Seann William Scott</actor>
-      <actor>Rosario Dawson</actor>
-      <actor>Christopher Walken</actor>
-      <actor>Ewen Bremner</actor>
-      <actor>Jon Gries</actor>
-      <actor>William Lucking</actor>
-      <actor>Ernie Reyes Jr</actor>
-      <actor>Dennis Keiffer</actor>
-      <actor>Toby Holguin</actor>
+      <director>Andrea Cassola</director>
     </credits>
-    <date>2003</date>
+    <date>2017</date>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180920003000 -0300" stop="20180920010000 -0300" channel="GNT">
+    <title lang="pt">Cozinha Prática com Rita Lobo: Risoto De Funghi Na Panela De</title>
+    <desc lang="pt">Rita Lobo mostra que é possível preparar um jantar para amigos no meio da semana. No cardápio, um delicioso risoto, só que feito na panela de pressão. E você pode cozinhar com ela, em tempo real(n)</desc>
+    <credits>
+      <director>Sheila Kaomura</director>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180920010000 -0300" stop="20180920020000 -0300" channel="GNT">
+    <title lang="pt">Mestres da Renovação: Não Seja um Herói</title>
+    <desc lang="pt">Neste episódio de Mestres da Renovação, Kortney e Dave embarcam na transformação de uma antiga casa de fazenda. Tudo parece muito fácil, até que problemas se aproximam da propriedade(n)</desc>
+    <credits>
+      <director>Chace Alford</director>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180920020000 -0300" stop="20180920023000 -0300" channel="GNT">
+    <title lang="pt">Moda Revelada: Calcinha Fio-Dental, Delineador e Chapéu de Cowboy</title>
+    <desc lang="pt">Neste episódio de Moda Revelada, vemos como a calcinha fio-dental foi primeiro usada por homens, como o delineador revolucionou a indústria de cosméticos e a história por trás dos chapéus de cowboy(n)</desc>
+    <credits>
+      <director>Jonah Bekhor</director>
+    </credits>
+    <date>2015</date>
     <rating system="BR">
       <value>9+</value>
     </rating>
   </programme>
-  <programme start="20180920030000 -0300" stop="20180920053000 -0300" channel="AMC">
-    <title lang="pt">Miami Vice</title>
-    <desc lang="pt">Na eletrizante versão cinematográfica da série de TV, uma gangue internacional de traficantes comete assassinatos que serão investigados pelos detetives Sonny e Rico. Disfarçados, eles vão entrar no mundo do crime(n)</desc>
+  <programme start="20180920023000 -0300" stop="20180920030000 -0300" channel="GNT">
+    <title lang="pt">As Melhores Lojas de Noivas: Negócio Desonesto</title>
+    <desc lang="pt">Em Chicago, duas lojas especializadas em vestidos de casamento competem diariamente por clientes e dinheiro(n)</desc>
     <credits>
-      <director>Michael Mann</director>
-      <actor>Colin Farrell</actor>
-      <actor>Jamie Foxx</actor>
-      <actor>Gong Li</actor>
-      <actor>Justin Theroux</actor>
-      <actor>Naomie Harris</actor>
-      <actor>Ciarán Hinds</actor>
-      <actor>Barry Shabaka Henley</actor>
-      <actor>Luis Tosar</actor>
-      <actor>Elizabeth Rodriguez</actor>
-      <actor>Domenick Lombardozzi</actor>
-      <actor>Eddie Marsan</actor>
+      <director>Joseph Fitzgerald</director>
     </credits>
-    <date>2006</date>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E3</episode-num>
     <rating system="BR">
-      <value>13+</value>
+      <value>7+</value>
     </rating>
   </programme>
-  <programme start="20180920053000 -0300" stop="20180920063000 -0300" channel="AMC">
-    <title lang="pt">Fear The Walking Dead</title>
-    <desc lang="pt">Decisões difíceis deixam o grupo em conflito. Enquanto isso, Alicia paga promessa ao Charlie(n)</desc>
+  <programme start="20180920030000 -0300" stop="20180920033000 -0300" channel="GNT">
+    <title lang="pt">Desengaveta: Thássia Naves</title>
+    <desc lang="pt">Fepa desbrava o closet de mais de 4500 peças de Thássia Naves. Fernanda Paes Leme capricha na lábia para arrematar peças com o carimbo da influenciadora digital para lojinha do Desengaveta(n)</desc>
     <credits>
-      <director>Kim Dickens</director>
-      <director>Robert Kirkman</director>
-      <actor>Kim Dickens</actor>
-      <actor>Frank Dillane</actor>
-      <actor>Colman Domingo</actor>
-      <actor>Jenna Elfman</actor>
-      <actor>Garret Dillahunt</actor>
-      <actor>Lennie James</actor>
+      <director>Gustavo Mello</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180920033000 -0300" stop="20180920050000 -0300" channel="GNT">
+    <title lang="pt">Arpoador - Praia e Democracia</title>
+    <desc lang="pt">O documentário explora diferentes visões sobre a relação entre a praia e seus frequentadores, focando principalmente no Arpoador, famoso cartão-postal carioca(n)</desc>
+    <credits>
+      <director>Helio Pitanga</director>
+      <director>Hamsa Wood</director>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180920050000 -0300" stop="20180920060000 -0300" channel="GNT">
+    <title lang="pt">Que Marravilha Aula de Cozinha</title>
+    <desc lang="pt">O chef Claude Troisgros vai abrir sua cozinha para 10 celebridades que não tem ideia de como ferver um ovo e transformá-las em cozinheiros de respeito(n)</desc>
+    <credits>
+      <director>Roberto D'Ávila</director>
     </credits>
     <date>2018</date>
-    <episode-num system="onscreen">S4 E14</episode-num>
-    <rating system="BR">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme start="20180920063000 -0300" stop="20180920070000 -0300" channel="AMC">
-    <title lang="pt">Action Zone</title>
-    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
-    <rating system="BR">
-      <value>9+</value>
-    </rating>
-  </programme>
-  <programme start="20180920070000 -0300" stop="20180920073000 -0300" channel="AMC">
-    <title lang="pt">Action Zone</title>
-    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
-    <rating system="BR">
-      <value>9+</value>
-    </rating>
-  </programme>
-  <programme start="20180920073000 -0300" stop="20180920080000 -0300" channel="AMC">
-    <title lang="pt">Action Zone</title>
-    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
-    <rating system="BR">
-      <value>9+</value>
-    </rating>
-  </programme>
-  <programme start="20180920080000 -0300" stop="20180920083000 -0300" channel="AMC">
-    <title lang="pt">Programação Paga</title>
-    <desc lang="pt">Indisponível(n)</desc>
+    <episode-num system="onscreen">S21 E2</episode-num>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20180920083000 -0300" stop="20180920090000 -0300" channel="AMC">
-    <title lang="pt">Programação Paga</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180920090000 -0300" stop="20180920093000 -0300" channel="AMC">
-    <title lang="pt">Programação Paga</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180920093000 -0300" stop="20180920100000 -0300" channel="AMC">
-    <title lang="pt">Programação Paga</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180920100000 -0300" stop="20180920110000 -0300" channel="AMC">
-    <title lang="pt">Animal Kingdom</title>
-    <desc lang="pt">Joshua(n)</desc>
+  <programme start="20180920060000 -0300" stop="20180920063000 -0300" channel="GNT">
+    <title lang="pt">Boas Vindas - Nasce um Irmão: Kadu e Ana Luísa, Júlia e</title>
+    <desc lang="pt">KADU é o irmão mais velho de ANA LUÍSA e aguarda a chegada da caçula, em um parto domiciliar. Os pais de JÚLIA E CECÍLIA sempre quiseram uma família grande e se preparam para ter 3 crianças em casa(n)</desc>
     <credits>
-      <director>James M. Muro</director>
-      <actor>Molly Gordon</actor>
-      <actor>Daniella Alonso</actor>
-      <actor>Ellen Barkin</actor>
-      <actor>Scott Speedman</actor>
-      <actor>Shawn Hatosy</actor>
-      <actor>Ben Robson</actor>
-      <actor>Jake Weary</actor>
-      <actor>Finn Cole</actor>
+      <director>Rodrigo Hinrichsen</director>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180920063000 -0300" stop="20180920070000 -0300" channel="GNT">
+    <title lang="pt">O Amor é Lindo</title>
+    <desc lang="pt">O Amor é Lindo é uma série que celebra o amor em diferentes momentos da vida. Em cada episódio, dois casais, um completando bodas e outro se casando, revelam o que os mantém unidos através dos anos(n)</desc>
+    <credits>
+      <director>Andrea Cassola</director>
     </credits>
     <date>2017</date>
-    <episode-num system="onscreen">S2 E3</episode-num>
+    <episode-num system="onscreen">E6</episode-num>
     <rating system="BR">
-      <value>13+</value>
+      <value>0+</value>
     </rating>
   </programme>
-  <programme start="20180920110000 -0300" stop="20180920120000 -0300" channel="AMC">
-    <title lang="pt">Animal Kingdom</title>
-    <desc lang="pt">Joshua(n)</desc>
+  <programme start="20180920070000 -0300" stop="20180920073000 -0300" channel="GNT">
+    <title lang="pt">Moda Revelada: Vestido de Madrinha, Jaqueta de Aviador e Calça Skinny</title>
+    <desc lang="pt">Neste episódio de Moda Revelada, entendemos como surgiu a cultura do vestido das madrinhas, como a calça skinny se popularizou e as como as jaquetas de aviador viraram sinônimo de estilo(n)</desc>
     <credits>
-      <director>Emmy Rossum</director>
-      <actor>Molly Gordon</actor>
-      <actor>Daniella Alonso</actor>
-      <actor>Ellen Barkin</actor>
-      <actor>Scott Speedman</actor>
-      <actor>Shawn Hatosy</actor>
-      <actor>Ben Robson</actor>
-      <actor>Jake Weary</actor>
-      <actor>Finn Cole</actor>
+      <director>Jonah Bekhor</director>
     </credits>
-    <date>2017</date>
-    <episode-num system="onscreen">S2 E4</episode-num>
-    <rating system="BR">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme start="20180920120000 -0300" stop="20180920123000 -0300" channel="AMC">
-    <title lang="pt">Action Zone</title>
-    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <date>2015</date>
     <rating system="BR">
       <value>9+</value>
     </rating>
   </programme>
-  <programme start="20180920123000 -0300" stop="20180920143000 -0300" channel="AMC">
-    <title lang="pt">Janie Jones - Uma História de Amor</title>
-    <desc lang="pt">Janie Jones é abandonada pela mãe, uma ex-groupie, e precisa aprender a conviver com o pai, um astro do rock em decadência que ela até então desconhecia - e que mal sabia que tinha uma filha(n)</desc>
+  <programme start="20180920073000 -0300" stop="20180920080000 -0300" channel="GNT">
+    <title lang="pt">As Melhores Lojas de Noivas: Sexy Demais Para o Vestido</title>
+    <desc lang="pt">Em Chicago, duas lojas especializadas em vestidos de casamento competem diariamente por clientes e dinheiro(n)</desc>
     <credits>
-      <director>David Rosenthal</director>
-      <actor>Alessandro Nivola</actor>
-      <actor>Abigail Breslin</actor>
-      <actor>Elisabeth Shue</actor>
-      <actor>Brittany Snow</actor>
-      <actor>Peter Stormare</actor>
-      <actor>Frank Whaley</actor>
+      <director>Joseph Fitzgerald</director>
     </credits>
-    <date>2010</date>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E4</episode-num>
     <rating system="BR">
-      <value>11+</value>
+      <value>7+</value>
     </rating>
   </programme>
-  <programme start="20180920143000 -0300" stop="20180920163000 -0300" channel="AMC">
-    <title lang="pt">Cleanskin: Jogo de Interesses</title>
-    <desc lang="pt">Ewan (Sean Bean) é um agente do Serviço Secreto da Inglaterra que tem como missão desmascarar uma célula terrorista que está operando em Londres por meio de atentados e bombardeios(n)</desc>
+  <programme start="20180920080000 -0300" stop="20180920090000 -0300" channel="GNT">
+    <title lang="pt">Decora</title>
+    <desc lang="pt">A cada semana, uma pessoa expõe para o programa qual é o problema com o cômodo que deseja reformar e como esse problema impacta a vida das pessoas que moram naquela casa ou apartamento(n)</desc>
     <credits>
-      <director>Hadi Hajaig</director>
-      <actor>Sean Bean</actor>
-      <actor>Charlotte Rampling</actor>
-      <actor>Abhin Galeya</actor>
-      <actor>Tom Burke</actor>
-      <actor>Tuppence Middleton</actor>
-    </credits>
-    <date>2012</date>
-    <rating system="BR">
-      <value>11+</value>
-    </rating>
-  </programme>
-  <programme start="20180920163000 -0300" stop="20180920185000 -0300" channel="AMC">
-    <title lang="pt">Em Nome do Rei</title>
-    <desc lang="pt">Em meio à guerra travada entre o terrível Gallian e o rei Konreid, Farmer, um homem de família, se torna um herói na busca por sua esposa raptada e a vingança pela morte de seu filho(n)</desc>
-    <credits>
-      <director>Uwe Boll</director>
-      <actor>Jason Statham</actor>
-      <actor>Kristanna Loken</actor>
-      <actor>John Rhys</actor>
-      <actor>Ray Liotta</actor>
-      <actor>Leelee Sobieski</actor>
-      <actor>Claire Forlani</actor>
-      <actor>Burt Reynolds</actor>
-      <actor>Gabrielle Rose</actor>
-    </credits>
-    <date>2007</date>
-    <rating system="BR">
-      <value>11+</value>
-    </rating>
-  </programme>
-  <programme start="20180920185000 -0300" stop="20180920203500 -0300" channel="AMC">
-    <title lang="pt">Largou as Botas e Mergulhou no Céu</title>
-    <desc lang="pt">Dilemas e conflitos entre ficar ou partir, permanecer ou mudar, sagrado ou profano são costurados por personagens reais e ficticios entre o Natal e o Carnaval, o período sabático do Brasil. A região é o Nordeste(n)</desc>
-    <credits>
-      <director>Bruno Graziano</director>
-      <director>Cauê Gruber</director>
-      <actor>Ana Paula Arcoverde</actor>
-      <actor>Cláudio Assis</actor>
-      <actor>Halder Gomes</actor>
+      <director>Pedro Gorski</director>
     </credits>
     <date>2016</date>
-    <rating system="BR">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme start="20180920203500 -0300" stop="20180920223000 -0300" channel="AMC">
-    <title lang="pt">Elysium</title>
-    <desc lang="pt">No ano de 2154, a população da Terra está dividida em duas classes: os ricos, que vivem na estação espacial Elysium, e o resto, que vive na Terra arruinada. Mas um homem pode ser a esperança para trazer igualdade(n)</desc>
-    <credits>
-      <director>Neill Blomkamp</director>
-      <actor>Matt Damon</actor>
-      <actor>Jodie Foster</actor>
-      <actor>Sharlto Copley</actor>
-      <actor>Alice Braga</actor>
-      <actor>Diego Luna</actor>
-      <actor>Wagner Moura</actor>
-      <actor>William Fichtner</actor>
-      <actor>Maxwell Perry Cotton</actor>
-    </credits>
-    <date>2013</date>
-    <rating system="BR">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme start="20180920223000 -0300" stop="20180921002500 -0300" channel="AMC">
-    <title lang="pt">Pandorum</title>
-    <desc lang="pt">No futuro, dois homens acordam numa nave espacial sem saber como chegaram lá. Eles estão a milhares de quilômetros da Terra, que está praticamente devastada. E descobrem que não estão sozinhos, algo aterrorizante habita a nave(n)</desc>
-    <credits>
-      <director>Christian Alvart</director>
-      <actor>Dennis Quaid</actor>
-      <actor>Ben Foster</actor>
-      <actor>Cam Gigandet</actor>
-      <actor>Antje Traue</actor>
-      <actor>Cung Le</actor>
-      <actor>Eddie Rouse</actor>
-      <actor>Norman Reedus</actor>
-      <actor>Friederike Kempter</actor>
-    </credits>
-    <date>2009</date>
-    <rating system="BR">
-      <value>11+</value>
-    </rating>
-  </programme>
-  <programme start="20180921002500 -0300" stop="20180921012000 -0300" channel="AMC">
-    <title lang="pt">Fear The Walking Dead</title>
-    <desc lang="pt">Decisões difíceis deixam o grupo em conflito. Enquanto isso, Alicia paga promessa ao Charlie(n)</desc>
-    <credits>
-      <director>Kim Dickens</director>
-      <director>Robert Kirkman</director>
-      <actor>Kim Dickens</actor>
-      <actor>Frank Dillane</actor>
-      <actor>Colman Domingo</actor>
-      <actor>Jenna Elfman</actor>
-      <actor>Garret Dillahunt</actor>
-      <actor>Lennie James</actor>
-    </credits>
-    <date>2018</date>
-    <episode-num system="onscreen">S4 E14</episode-num>
-    <rating system="BR">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme start="20180921012000 -0300" stop="20180921022000 -0300" channel="AMC">
-    <title lang="pt">Humans</title>
-    <desc lang="pt">A última invenção que toda família precisa ter é o(n)</desc>
-    <credits>
-      <director>Al Mackay</director>
-      <actor>Katherine Parkinson</actor>
-      <actor>Gemma Chan</actor>
-      <actor>Lucy Carless</actor>
-    </credits>
-    <date>2018</date>
-    <episode-num system="onscreen">S3 E1</episode-num>
-    <rating system="BR">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme start="20180921022000 -0300" stop="20180921041500 -0300" channel="AMC">
-    <title lang="pt">Pandorum</title>
-    <desc lang="pt">No futuro, dois homens acordam numa nave espacial sem saber como chegaram lá. Eles estão a milhares de quilômetros da Terra, que está praticamente devastada. E descobrem que não estão sozinhos, algo aterrorizante habita a nave(n)</desc>
-    <credits>
-      <director>Christian Alvart</director>
-      <actor>Dennis Quaid</actor>
-      <actor>Ben Foster</actor>
-      <actor>Cam Gigandet</actor>
-      <actor>Antje Traue</actor>
-      <actor>Cung Le</actor>
-      <actor>Eddie Rouse</actor>
-      <actor>Norman Reedus</actor>
-      <actor>Friederike Kempter</actor>
-    </credits>
-    <date>2009</date>
-    <rating system="BR">
-      <value>11+</value>
-    </rating>
-  </programme>
-  <programme start="20180921041500 -0300" stop="20180921060500 -0300" channel="AMC">
-    <title lang="pt">Timecop - O Guardião do Tempo</title>
-    <desc lang="pt">Max é um policial especial, que viaja pelo tempo, prendendo pessoas que fogem para o passado em busca de fortuna. Ele enfrenta grande desafio ao descobrir que senador poderoso e corrupto tem plano infalível para tomar o poder(n)</desc>
-    <credits>
-      <director>Peter Hyams</director>
-      <actor>Jean-Claude Van Damme</actor>
-      <actor>Mia Sara</actor>
-      <actor>Ron Silver</actor>
-      <actor>Bruce McGill</actor>
-      <actor>Gloria Reuben</actor>
-      <actor>Scott Bellis</actor>
-      <actor>Jason Schombing</actor>
-      <actor>Scott Lawrence</actor>
-    </credits>
-    <date>1994</date>
-    <rating system="BR">
-      <value>11+</value>
-    </rating>
-  </programme>
-  <programme start="20180921060500 -0300" stop="20180921070000 -0300" channel="AMC">
-    <title lang="pt">Into the Badlands</title>
-    <desc lang="pt">Em uma terra controlada por barões feudais, Into the Badlands conta a história de Sunny, um grande guerreiro, e um jovem rapaz que embarcam em uma viagem de descobrimento e aprendizagem através de uma terra perigosa(n)</desc>
-    <credits>
-      <director>Paco Cabezas</director>
-      <actor>Aramis Knight</actor>
-      <actor>Orla Brady</actor>
-      <actor>Daniel Wu</actor>
-    </credits>
-    <date>2018</date>
-    <episode-num system="onscreen">S3 E4</episode-num>
-    <rating system="BR">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme start="20180921070000 -0300" stop="20180921073000 -0300" channel="AMC">
-    <title lang="pt">Action Zone</title>
-    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
-    <rating system="BR">
-      <value>9+</value>
-    </rating>
-  </programme>
-  <programme start="20180921073000 -0300" stop="20180921080000 -0300" channel="AMC">
-    <title lang="pt">Action Zone</title>
-    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
-    <rating system="BR">
-      <value>9+</value>
-    </rating>
-  </programme>
-  <programme start="20180921080000 -0300" stop="20180921083000 -0300" channel="AMC">
-    <title lang="pt">Programação Paga</title>
-    <desc lang="pt">Indisponível(n)</desc>
+    <episode-num system="onscreen">S12 E20</episode-num>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20180921083000 -0300" stop="20180921090000 -0300" channel="AMC">
-    <title lang="pt">Programação Paga</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180921090000 -0300" stop="20180921093000 -0300" channel="AMC">
-    <title lang="pt">Programação Paga</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180921093000 -0300" stop="20180921100000 -0300" channel="AMC">
-    <title lang="pt">Programação Paga</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180921100000 -0300" stop="20180921110000 -0300" channel="AMC">
-    <title lang="pt">Animal Kingdom</title>
-    <desc lang="pt">Joshua(n)</desc>
+  <programme start="20180920090000 -0300" stop="20180920100000 -0300" channel="GNT">
+    <title lang="pt">Santa Ajuda</title>
+    <desc lang="pt">Micaela volta com um novo desafio: traçar um perfil de tipos de bagunceiros. Atendendo a denúncias de amigos e parentes desesperados, Micaela vai à caça dos bagunceiros para dar aquela Santa Ajuda(n)</desc>
     <credits>
-      <director>Emmy Rossum</director>
-      <actor>Molly Gordon</actor>
-      <actor>Daniella Alonso</actor>
-      <actor>Ellen Barkin</actor>
-      <actor>Scott Speedman</actor>
-      <actor>Shawn Hatosy</actor>
-      <actor>Ben Robson</actor>
-      <actor>Jake Weary</actor>
-      <actor>Finn Cole</actor>
+      <director>Alfredo Stadtherr</director>
     </credits>
     <date>2017</date>
-    <episode-num system="onscreen">S2 E4</episode-num>
+    <episode-num system="onscreen">S10 E20</episode-num>
     <rating system="BR">
-      <value>13+</value>
+      <value>0+</value>
     </rating>
   </programme>
-  <programme start="20180921110000 -0300" stop="20180921120000 -0300" channel="AMC">
-    <title lang="pt">Humans</title>
-    <desc lang="pt">A última invenção que toda família precisa ter é o(n)</desc>
+  <programme start="20180920100000 -0300" stop="20180920110000 -0300" channel="GNT">
+    <title lang="pt">Cozinheiros em Ação: Batatada</title>
+    <desc lang="pt">A partir de agora, a competição vira individual e o bicho vai pegar Os cozinheiros vão preparar receitas com o tubérculo mais consumido do mundo: a batata(n)</desc>
     <credits>
-      <director>Al Mackay</director>
-      <actor>Katherine Parkinson</actor>
-      <actor>Gemma Chan</actor>
-      <actor>Lucy Carless</actor>
+      <director>Ricardo Pompeu</director>
     </credits>
-    <date>2018</date>
-    <episode-num system="onscreen">S3 E1</episode-num>
+    <date>2016</date>
+    <episode-num system="onscreen">S6 E6</episode-num>
     <rating system="BR">
-      <value>13+</value>
+      <value>0+</value>
     </rating>
   </programme>
-  <programme start="20180921120000 -0300" stop="20180921140000 -0300" channel="AMC">
-    <title lang="pt">Elysium</title>
-    <desc lang="pt">No ano de 2154, a população da Terra está dividida em duas classes: os ricos, que vivem na estação espacial Elysium, e o resto, que vive na Terra arruinada. Mas um homem pode ser a esperança para trazer igualdade(n)</desc>
+  <programme start="20180920110000 -0300" stop="20180920113000 -0300" channel="GNT">
+    <title lang="pt">O Banquete de Jamie Oliver</title>
+    <desc lang="pt">Jamie mostra como fazer receitas ao ar livre enquanto aproveita um festival musical de verão. Ele prepara dosas indianas, galinha jerk, chocolate quente com churros e ainda dá dicas de como cozinhar na brasa com gravetos(n)</desc>
     <credits>
-      <director>Neill Blomkamp</director>
-      <actor>Matt Damon</actor>
-      <actor>Jodie Foster</actor>
-      <actor>Sharlto Copley</actor>
-      <actor>Alice Braga</actor>
-      <actor>Diego Luna</actor>
-      <actor>Wagner Moura</actor>
-      <actor>William Fichtner</actor>
-      <actor>Maxwell Perry Cotton</actor>
+      <director>Brian Klein</director>
     </credits>
-    <date>2013</date>
+    <date>2011</date>
+    <episode-num system="onscreen">E1</episode-num>
     <rating system="BR">
-      <value>13+</value>
+      <value>0+</value>
     </rating>
   </programme>
-  <programme start="20180921140000 -0300" stop="20180921162500 -0300" channel="AMC">
-    <title lang="pt">Reine sobre Mim</title>
-    <desc lang="pt">Preso na angústia e na solidão depois de perder a família no atentado terrorista de 11 de setembro, Charlie Fineman tenta se recuperar da tragédia durante os encontros com um velho amigo e seu passado esquecido(n)</desc>
+  <programme start="20180920113000 -0300" stop="20180920120000 -0300" channel="GNT">
+    <title lang="pt">O Banquete de Jamie Oliver</title>
+    <desc lang="pt">Nesse episódio, Jamie prepara uma costela de porco na brasa ao ar livre, ovos pochê mexicanos, um bolo de panquecas que não vai ao forno e ainda dá dicas de como defumar o seu próprio peixe(n)</desc>
     <credits>
-      <director>Mike Binder</director>
-      <actor>Adam Sandler</actor>
-      <actor>Don Cheadle</actor>
-      <actor>Jada Pinkett Smith</actor>
-      <actor>Liv Tyler</actor>
-      <actor>Donald Sutherland</actor>
-      <actor>Jonathan Banks</actor>
-      <actor>Rae Allen</actor>
-      <actor>Paula Newsome</actor>
-      <actor>Camille LaChe Smith</actor>
+      <director>Brian Klein</director>
     </credits>
-    <date>2007</date>
+    <date>2011</date>
+    <episode-num system="onscreen">E2</episode-num>
     <rating system="BR">
-      <value>13+</value>
+      <value>0+</value>
     </rating>
   </programme>
-  <programme start="20180921162500 -0300" stop="20180921181500 -0300" channel="AMC">
-    <title lang="pt">Timecop - O Guardião do Tempo</title>
-    <desc lang="pt">Max é um policial especial, que viaja pelo tempo, prendendo pessoas que fogem para o passado em busca de fortuna. Ele enfrenta grande desafio ao descobrir que senador poderoso e corrupto tem plano infalível para tomar o poder(n)</desc>
+  <programme start="20180920120000 -0300" stop="20180920130000 -0300" channel="GNT">
+    <title lang="pt">Chefs na Calada da Noite: Ousado e Fermentado</title>
+    <desc lang="pt">Chefs Na Calada da Noite é um confronto culinário passado no Chelsea Market, em NY, entre renomados chefs. Em cada episódio, três chefs competem em duas rodadas e disputam o grande prêmio da noite(n)</desc>
     <credits>
-      <director>Peter Hyams</director>
-      <actor>Jean-Claude Van Damme</actor>
-      <actor>Mia Sara</actor>
-      <actor>Ron Silver</actor>
-      <actor>Bruce McGill</actor>
-      <actor>Gloria Reuben</actor>
-      <actor>Scott Bellis</actor>
-      <actor>Jason Schombing</actor>
-      <actor>Scott Lawrence</actor>
-    </credits>
-    <date>1994</date>
-    <rating system="BR">
-      <value>11+</value>
-    </rating>
-  </programme>
-  <programme start="20180921181500 -0300" stop="20180921201000 -0300" channel="AMC">
-    <title lang="pt">Elysium</title>
-    <desc lang="pt">No ano de 2154, a população da Terra está dividida em duas classes: os ricos, que vivem na estação espacial Elysium, e o resto, que vive na Terra arruinada. Mas um homem pode ser a esperança para trazer igualdade(n)</desc>
-    <credits>
-      <director>Neill Blomkamp</director>
-      <actor>Matt Damon</actor>
-      <actor>Jodie Foster</actor>
-      <actor>Sharlto Copley</actor>
-      <actor>Alice Braga</actor>
-      <actor>Diego Luna</actor>
-      <actor>Wagner Moura</actor>
-      <actor>William Fichtner</actor>
-      <actor>Maxwell Perry Cotton</actor>
-    </credits>
-    <date>2013</date>
-    <rating system="BR">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme start="20180921201000 -0300" stop="20180921223000 -0300" channel="AMC">
-    <title lang="pt">Karate Kid</title>
-    <desc lang="pt">Sem amigos numa nova cidade, Dre não tem a quem recorrer exceto o zelador do seu prédio, que é secretamente um mestre do kung fu. Dre percebe que encarar os brigões da turma será a aventura de uma vida(n)</desc>
-    <credits>
-      <director>Harald Zwart</director>
-      <actor>Jaden Smith</actor>
-      <actor>Jackie Chan</actor>
-      <actor>Taraji P. Henson</actor>
-      <actor>Zhenwei Wang</actor>
-      <actor>Jared Minns</actor>
-      <actor>Rongguang Yu</actor>
-      <actor>Bo Zhang</actor>
-    </credits>
-    <date>2010</date>
-    <rating system="BR">
-      <value>7+</value>
-    </rating>
-  </programme>
-  <programme start="20180921223000 -0300" stop="20180922002500 -0300" channel="AMC">
-    <title lang="pt">O Monge à Prova de Balas</title>
-    <desc lang="pt">Há 60 anos um monge protege um pergaminho sagrado que dá incríveis poderes ao seu guardião. Mas agora ele tem uma difícil tarefa pela frente, treinar um garoto muito malandro para ser seu substituto(n)</desc>
-    <credits>
-      <director>Paul Hunter</director>
-      <actor>Chow Yun-Fat</actor>
-      <actor>Seann William Scott</actor>
-      <actor>Jaime King</actor>
-      <actor>Karel Roden</actor>
-      <actor>Victoria Smurfit</actor>
-      <actor>Marcus Jean Pirae</actor>
-      <actor>Roger Yuan</actor>
-      <actor>Sean Bell</actor>
-      <actor>Rob Archer</actor>
-      <actor>Bayo Akinfemi</actor>
-    </credits>
-    <date>2003</date>
-    <rating system="BR">
-      <value>11+</value>
-    </rating>
-  </programme>
-  <programme start="20180922002500 -0300" stop="20180922021000 -0300" channel="AMC">
-    <title lang="pt">O Mestre dos Jogos</title>
-    <desc lang="pt">Mão Invencível é um apostador mundialmente conhecido pela habilidade de identificar cartas com os dedos. Ele retorna a Macau para ajudar um antigo companheiro que teve o irmão assassinado pelo chefe da máfia internacional(n)</desc>
-    <credits>
-      <director>Jing Wong</director>
-      <actor>Nicholas Tse</actor>
-      <actor>Yun-Fat Chow</actor>
-      <actor>Chapman To</actor>
-      <actor>Annie Wu</actor>
-      <actor>Xiao Bao</actor>
-      <actor>May Ka-Kai Chan</actor>
-      <actor>Maria Cordero</actor>
-      <actor>Yuki Cheng</actor>
+      <director>Christina Rich</director>
     </credits>
     <date>2014</date>
-    <rating system="BR">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme start="20180922021000 -0300" stop="20180922041000 -0300" channel="AMC">
-    <title lang="pt">Peter Pan</title>
-    <desc lang="pt">O pai de Wendy acha que a filha não é mais criança. Mas Peter Pan, o menino que não quer crescer, a leva para a Terra do Nunca, um lugar livre das regras dos adultos. Ao lado de fada Sininho, eles vivem grandes aventuras(n)</desc>
-    <credits>
-      <director>P.J. Hogan</director>
-      <actor>Jason Isaacs</actor>
-      <actor>Jeremy Sumpter</actor>
-      <actor>Rachel Hurd-Wood</actor>
-      <actor>Lynn Redgrave</actor>
-      <actor>Richard Briers</actor>
-      <actor>Olivia Williams</actor>
-      <actor>Ludivine Sagnier</actor>
-      <actor>George MacKay</actor>
-      <actor>Harry Haden</actor>
-      <actor>Patrick Gooch</actor>
-    </credits>
-    <date>2003</date>
-    <rating system="BR">
-      <value>7+</value>
-    </rating>
-  </programme>
-  <programme start="20180922041000 -0300" stop="20180922060000 -0300" channel="AMC">
-    <title lang="pt">O Mestre dos Jogos</title>
-    <desc lang="pt">Mão Invencível é um apostador mundialmente conhecido pela habilidade de identificar cartas com os dedos. Ele retorna a Macau para ajudar um antigo companheiro que teve o irmão assassinado pelo chefe da máfia internacional(n)</desc>
-    <credits>
-      <director>Jing Wong</director>
-      <actor>Nicholas Tse</actor>
-      <actor>Yun-Fat Chow</actor>
-      <actor>Chapman To</actor>
-      <actor>Annie Wu</actor>
-      <actor>Xiao Bao</actor>
-      <actor>May Ka-Kai Chan</actor>
-      <actor>Maria Cordero</actor>
-      <actor>Yuki Cheng</actor>
-    </credits>
-    <date>2014</date>
-    <rating system="BR">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme start="20180922060000 -0300" stop="20180922070000 -0300" channel="AMC">
-    <title lang="pt">Animal Kingdom</title>
-    <desc lang="pt">Joshua(n)</desc>
-    <credits>
-      <director>Laura Innes</director>
-      <actor>Molly Gordon</actor>
-      <actor>Daniella Alonso</actor>
-      <actor>Ellen Barkin</actor>
-      <actor>Scott Speedman</actor>
-      <actor>Shawn Hatosy</actor>
-      <actor>Ben Robson</actor>
-      <actor>Jake Weary</actor>
-      <actor>Finn Cole</actor>
-    </credits>
-    <date>2017</date>
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <rating system="BR">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme start="20180922070000 -0300" stop="20180922073000 -0300" channel="AMC">
-    <title lang="pt">Action Zone</title>
-    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
-    <rating system="BR">
-      <value>9+</value>
-    </rating>
-  </programme>
-  <programme start="20180922073000 -0300" stop="20180922080000 -0300" channel="AMC">
-    <title lang="pt">Action Zone</title>
-    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
-    <rating system="BR">
-      <value>9+</value>
-    </rating>
-  </programme>
-  <programme start="20180922080000 -0300" stop="20180922083000 -0300" channel="AMC">
-    <title lang="pt">Programação Paga</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180922083000 -0300" stop="20180922090000 -0300" channel="AMC">
-    <title lang="pt">Programação Paga</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180922090000 -0300" stop="20180922093000 -0300" channel="AMC">
-    <title lang="pt">Programação Paga</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180922093000 -0300" stop="20180922100000 -0300" channel="AMC">
-    <title lang="pt">Programação Paga</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180922100000 -0300" stop="20180922103000 -0300" channel="AMC">
-    <title lang="pt">Action Zone</title>
-    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
-    <rating system="BR">
-      <value>9+</value>
-    </rating>
-  </programme>
-  <programme start="20180922103000 -0300" stop="20180922125500 -0300" channel="AMC">
-    <title lang="pt">Karate Kid</title>
-    <desc lang="pt">Sem amigos numa nova cidade, Dre não tem a quem recorrer exceto o zelador do seu prédio, que é secretamente um mestre do kung fu. Dre percebe que encarar os brigões da turma será a aventura de uma vida(n)</desc>
-    <credits>
-      <director>Harald Zwart</director>
-      <actor>Jaden Smith</actor>
-      <actor>Jackie Chan</actor>
-      <actor>Taraji P. Henson</actor>
-      <actor>Zhenwei Wang</actor>
-      <actor>Jared Minns</actor>
-      <actor>Rongguang Yu</actor>
-      <actor>Bo Zhang</actor>
-    </credits>
-    <date>2010</date>
-    <rating system="BR">
-      <value>7+</value>
-    </rating>
-  </programme>
-  <programme start="20180922125500 -0300" stop="20180922145000 -0300" channel="AMC">
-    <title lang="pt">O Monge à Prova de Balas</title>
-    <desc lang="pt">Há 60 anos um monge protege um pergaminho sagrado que dá incríveis poderes ao seu guardião. Mas agora ele tem uma difícil tarefa pela frente, treinar um garoto muito malandro para ser seu substituto(n)</desc>
-    <credits>
-      <director>Paul Hunter</director>
-      <actor>Chow Yun-Fat</actor>
-      <actor>Seann William Scott</actor>
-      <actor>Jaime King</actor>
-      <actor>Karel Roden</actor>
-      <actor>Victoria Smurfit</actor>
-      <actor>Marcus Jean Pirae</actor>
-      <actor>Roger Yuan</actor>
-      <actor>Sean Bell</actor>
-      <actor>Rob Archer</actor>
-      <actor>Bayo Akinfemi</actor>
-    </credits>
-    <date>2003</date>
-    <rating system="BR">
-      <value>11+</value>
-    </rating>
-  </programme>
-  <programme start="20180922145000 -0300" stop="20180922165000 -0300" channel="AMC">
-    <title lang="pt">Peter Pan</title>
-    <desc lang="pt">O pai de Wendy acha que a filha não é mais criança. Mas Peter Pan, o menino que não quer crescer, a leva para a Terra do Nunca, um lugar livre das regras dos adultos. Ao lado de fada Sininho, eles vivem grandes aventuras(n)</desc>
-    <credits>
-      <director>P.J. Hogan</director>
-      <actor>Jason Isaacs</actor>
-      <actor>Jeremy Sumpter</actor>
-      <actor>Rachel Hurd-Wood</actor>
-      <actor>Lynn Redgrave</actor>
-      <actor>Richard Briers</actor>
-      <actor>Olivia Williams</actor>
-      <actor>Ludivine Sagnier</actor>
-      <actor>George MacKay</actor>
-      <actor>Harry Haden</actor>
-      <actor>Patrick Gooch</actor>
-    </credits>
-    <date>2003</date>
-    <rating system="BR">
-      <value>7+</value>
-    </rating>
-  </programme>
-  <programme start="20180922165000 -0300" stop="20180922191500 -0300" channel="AMC">
-    <title lang="pt">Karate Kid</title>
-    <desc lang="pt">Sem amigos numa nova cidade, Dre não tem a quem recorrer exceto o zelador do seu prédio, que é secretamente um mestre do kung fu. Dre percebe que encarar os brigões da turma será a aventura de uma vida(n)</desc>
-    <credits>
-      <director>Harald Zwart</director>
-      <actor>Jaden Smith</actor>
-      <actor>Jackie Chan</actor>
-      <actor>Taraji P. Henson</actor>
-      <actor>Zhenwei Wang</actor>
-      <actor>Jared Minns</actor>
-      <actor>Rongguang Yu</actor>
-      <actor>Bo Zhang</actor>
-    </credits>
-    <date>2010</date>
-    <rating system="BR">
-      <value>7+</value>
-    </rating>
-  </programme>
-  <programme start="20180922191500 -0300" stop="20180922205500 -0300" channel="AMC">
-    <title lang="pt">Paranorman</title>
-    <desc lang="pt">Norman é um garoto que consegue falar com os mortos. Ele não tem muitos amigos, já que as outras crianças o acham estranho e não acreditam em seu dom(n)</desc>
-    <credits>
-      <director>Chris Butler</director>
-      <director>Sam Fell</director>
-      <actor>Vozes de Tucker Albrizzi</actor>
-      <actor>Anna Kendrick</actor>
-      <actor>Kodi Smit-McPhee</actor>
-      <actor>Casey Affleck</actor>
-      <actor>Christopher Mintz-Plasse</actor>
-      <actor>Leslie Mann</actor>
-      <actor>Jeff Garlin</actor>
-    </credits>
-    <date>2012</date>
-    <rating system="BR">
-      <value>7+</value>
-    </rating>
-  </programme>
-  <programme start="20180922205500 -0300" stop="20180922223000 -0300" channel="AMC">
-    <title lang="pt">O Lorax - Em Busca da Trúfula Perdida</title>
-    <desc lang="pt">Ted vive em um lugar onde as árvores são feitas de plástico e tudo é artificial. Ele deixa a cidade na intenção de trazer uma árvore real para impressionar a garota por quem é apaixonado(n)</desc>
-    <credits>
-      <director>Chris Renaud</director>
-      <director>Kyle Balda</director>
-      <actor>Vozes de Danny Devito</actor>
-      <actor>Zac Efron</actor>
-      <actor>Taylor Swift</actor>
-      <actor>Ed Helms</actor>
-      <actor>Rob Riggle</actor>
-      <actor>Betty White</actor>
-    </credits>
-    <date>2012</date>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180922223000 -0300" stop="20180923001500 -0300" channel="AMC">
-    <title lang="pt">Paranorman</title>
-    <desc lang="pt">Norman é um garoto que consegue falar com os mortos. Ele não tem muitos amigos, já que as outras crianças o acham estranho e não acreditam em seu dom(n)</desc>
-    <credits>
-      <director>Chris Butler</director>
-      <director>Sam Fell</director>
-      <actor>Vozes de Tucker Albrizzi</actor>
-      <actor>Anna Kendrick</actor>
-      <actor>Kodi Smit-McPhee</actor>
-      <actor>Casey Affleck</actor>
-      <actor>Christopher Mintz-Plasse</actor>
-      <actor>Leslie Mann</actor>
-      <actor>Jeff Garlin</actor>
-    </credits>
-    <date>2012</date>
-    <rating system="BR">
-      <value>7+</value>
-    </rating>
-  </programme>
-  <programme start="20180923001500 -0300" stop="20180923014500 -0300" channel="AMC">
-    <title lang="pt">O Bicho Vai Pegar 2</title>
-    <desc lang="pt">Giselle e Elliot se preparam para o casamento, mas o caminho ao altar muda quando Mr. Weenie é sequestrado por um grupo de mascotes que pretendem devolvê-lo a seus donos. Seus amigos saem numa aventura para resgatar o cão(n)</desc>
-    <credits>
-      <director>Matthew O'Callaghan</director>
-      <director>Todd Wilderman</director>
-      <actor>Vozes de Mike Epps</actor>
-      <actor>Joel McHale</actor>
-      <actor>Jane Krakowski</actor>
-      <actor>Billy Connolly</actor>
-      <actor>Crispin Glover</actor>
-      <actor>Steve Schirripa</actor>
-      <actor>Diedrich Bader</actor>
-    </credits>
-    <date>2008</date>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180923014500 -0300" stop="20180923032500 -0300" channel="AMC">
-    <title lang="pt">Penelope</title>
-    <desc lang="pt">Penelope sofre de uma antiga maldição. Sua mãe crê que se puder casá-la com um homem de sangue azul a maldição será quebrada e ela será normal(n)</desc>
-    <credits>
-      <director>Mark Palansky</director>
-      <actor>Christina Ricci</actor>
-      <actor>James McAvoy</actor>
-      <actor>Catherine O'Hara</actor>
-      <actor>Reese Witherspoon</actor>
-      <actor>Peter Dinklage</actor>
-      <actor>Simon Woods</actor>
-      <actor>Ronni Ancona</actor>
-    </credits>
-    <date>2006</date>
-    <rating system="BR">
-      <value>11+</value>
-    </rating>
-  </programme>
-  <programme start="20180923032500 -0300" stop="20180923050500 -0300" channel="AMC">
-    <title lang="pt">O Casamento do Ano</title>
-    <desc lang="pt">Missy e Al se conhecem desde crianças e estão prestes a se casar. Ele recebe a notícia de que sua mãe biológica, e muito religiosa, virá ao casamento, seus pais adotivos precisarão fingir que ainda são casados(n)</desc>
-    <credits>
-      <director>Justin Zackham</director>
-      <actor>Robert De Niro</actor>
-      <actor>Diane Keaton</actor>
-      <actor>Amanda Seyfried</actor>
-      <actor>Katherine Heigl</actor>
-      <actor>Susan Sarandon</actor>
-      <actor>Robin Williams</actor>
-    </credits>
-    <date>2013</date>
-    <rating system="BR">
-      <value>11+</value>
-    </rating>
-  </programme>
-  <programme start="20180923050500 -0300" stop="20180923060000 -0300" channel="AMC">
-    <title lang="pt">Into the Badlands</title>
-    <desc lang="pt">Em uma terra controlada por barões feudais, Into the Badlands conta a história de Sunny, um grande guerreiro, e um jovem rapaz que embarcam em uma viagem de descobrimento e aprendizagem através de uma terra perigosa(n)</desc>
-    <credits>
-      <director>Paco Cabezas</director>
-      <actor>Aramis Knight</actor>
-      <actor>Orla Brady</actor>
-      <actor>Daniel Wu</actor>
-    </credits>
-    <date>2018</date>
-    <episode-num system="onscreen">S3 E5</episode-num>
-    <rating system="BR">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme start="20180923060000 -0300" stop="20180923070000 -0300" channel="AMC">
-    <title lang="pt">Animal Kingdom</title>
-    <desc lang="pt">Joshua(n)</desc>
-    <credits>
-      <director>Larry Teng</director>
-      <actor>Molly Gordon</actor>
-      <actor>Daniella Alonso</actor>
-      <actor>Ellen Barkin</actor>
-      <actor>Scott Speedman</actor>
-      <actor>Shawn Hatosy</actor>
-      <actor>Ben Robson</actor>
-      <actor>Jake Weary</actor>
-      <actor>Finn Cole</actor>
-    </credits>
-    <date>2017</date>
-    <episode-num system="onscreen">S2 E6</episode-num>
-    <rating system="BR">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme start="20180923070000 -0300" stop="20180923073000 -0300" channel="AMC">
-    <title lang="pt">Action Zone</title>
-    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
-    <rating system="BR">
-      <value>9+</value>
-    </rating>
-  </programme>
-  <programme start="20180923073000 -0300" stop="20180923080000 -0300" channel="AMC">
-    <title lang="pt">Action Zone</title>
-    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
-    <rating system="BR">
-      <value>9+</value>
-    </rating>
-  </programme>
-  <programme start="20180923080000 -0300" stop="20180923083000 -0300" channel="AMC">
-    <title lang="pt">Programação Paga</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180923083000 -0300" stop="20180923090000 -0300" channel="AMC">
-    <title lang="pt">Programação Paga</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180923090000 -0300" stop="20180923093000 -0300" channel="AMC">
-    <title lang="pt">Programação Paga</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180923093000 -0300" stop="20180923100000 -0300" channel="AMC">
-    <title lang="pt">Programação Paga</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180923100000 -0300" stop="20180923105500 -0300" channel="AMC">
-    <title lang="pt">James Cameron's Story Of Science Fiction</title>
-    <desc lang="pt">Steven Spielberg, Christopher Nolan, Robert Kirkman e outros analisam como vamos sobreviver quando o mundo acabar(n)</desc>
-    <credits>
-      <actor>James Cameron</actor>
-    </credits>
-    <date>2018</date>
     <episode-num system="onscreen">E4</episode-num>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20180923105500 -0300" stop="20180923115000 -0300" channel="AMC">
-    <title lang="pt">James Cameron's Story Of Science Fiction</title>
-    <desc lang="pt">Steven Spielberg, Arnold Schwarzenegger, George Lucas e outros debatem se as máquinas criadas pela ficção científica poderiam salvar a humanidade, ou destruí-la(n)</desc>
+  <programme start="20180920130000 -0300" stop="20180920140000 -0300" channel="GNT">
+    <title lang="pt">Mais Cor, Por Favor: (Decoração) - Um Chá de Bebê Cheio</title>
+    <desc lang="pt">Andreza, Rafael e o filho Joaquim adoram receber amigos em casa, mas a sala deles está apagada. Thalita renovará o espaço e a inauguração será com o chá de bebê para Andreza revelar se espera um menino ou uma menina(n)</desc>
     <credits>
-      <actor>James Cameron</actor>
+      <director>Lucas Margutti</director>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180920140000 -0300" stop="20180920150000 -0300" channel="GNT">
+    <title lang="pt">Saia Justa</title>
+    <desc lang="pt">Presente na grade do canal desde 2002, o(n)</desc>
+    <credits>
+      <director>Patricia Rubano</director>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S17 E29</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180920150000 -0300" stop="20180920160000 -0300" channel="GNT">
+    <title lang="pt">Mais Cor, Por Favor</title>
+    <desc lang="pt">O Mais Cor Por Favor, apresentado por Thalita Carvalho, vai mostrar na 4ª temporada que um conjunto de pequenos projetos têm o poder de revolucionar um canto da casa(n)</desc>
+    <credits>
+      <director>Lígia Feliciano</director>
     </credits>
     <date>2018</date>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180920160000 -0300" stop="20180920170000 -0300" channel="GNT">
+    <title lang="pt">Que Marravilha Aula de Cozinha</title>
+    <desc lang="pt">O chef Claude Troisgros vai abrir sua cozinha para 10 celebridades que não tem ideia de como ferver um ovo e transformá-las em cozinheiros de respeito(n)</desc>
+    <credits>
+      <director>Roberto D'Ávila</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S21 E2</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180920170000 -0300" stop="20180920173000 -0300" channel="GNT">
+    <title lang="pt">O Amor é Lindo</title>
+    <desc lang="pt">O Amor é Lindo é uma série que celebra o amor em diferentes momentos da vida. Em cada episódio, dois casais, um completando bodas e outro se casando, revelam o que os mantém unidos através dos anos(n)</desc>
+    <credits>
+      <director>Andrea Cassola</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180920173000 -0300" stop="20180920180000 -0300" channel="GNT">
+    <title lang="pt">Desengaveta: Thássia Naves</title>
+    <desc lang="pt">Fepa desbrava o closet de mais de 4500 peças de Thássia Naves. Fernanda Paes Leme capricha na lábia para arrematar peças com o carimbo da influenciadora digital para lojinha do Desengaveta(n)</desc>
+    <credits>
+      <director>Gustavo Mello</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180920180000 -0300" stop="20180920190000 -0300" channel="GNT">
+    <title lang="pt">Saia Justa</title>
+    <desc lang="pt">Presente na grade do canal desde 2002, o(n)</desc>
+    <credits>
+      <director>Patricia Rubano</director>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S17 E29</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180920190000 -0300" stop="20180920200000 -0300" channel="GNT">
+    <title lang="pt">Mais Cor, Por Favor</title>
+    <desc lang="pt">O Mais Cor Por Favor, apresentado por Thalita Carvalho, vai mostrar na 4ª temporada que um conjunto de pequenos projetos têm o poder de revolucionar um canto da casa(n)</desc>
+    <credits>
+      <director>Lígia Feliciano</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180920200000 -0300" stop="20180920210000 -0300" channel="GNT">
+    <title lang="pt">Que Seja Doce: (Reality Show) - Santo Antônio</title>
+    <desc lang="pt">Homenageando Santo Antônio, O Santo Casamenteiro, os confeiteiros devem abusar dos doces românticos e afrodisíacos para conquistar a rainha dos doces gulosos, o rei das tendências e o nosso confeiteiro três em um(n)</desc>
+    <credits>
+      <director>Roberto Davila</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E26</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180920210000 -0300" stop="20180920213000 -0300" channel="GNT">
+    <title lang="pt">Tempero de Família: Lamonnyel Vieira</title>
+    <desc lang="pt">Rodrigo constrói um espeto vertical. Com Lamonnyel Vieira, que largou a vida de consultor para se dedicar ao mundo das carnes, faz um leitão à pururuca, farofa de ovo queimadinha e tomates confitados(n)</desc>
+    <credits>
+      <director>Gigi Soares</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S10 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180920213000 -0300" stop="20180920223000 -0300" channel="GNT">
+    <title lang="pt">Cozinheiros em Ação: Jardim da Cozinha</title>
+    <desc lang="pt">Os cheiros e sabores de ervas como o coentro, o manjericão e o hortelã invadem a nossa cozinha(n)</desc>
+    <credits>
+      <director>Ricardo Pompeu</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S6 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180920223000 -0300" stop="20180920233000 -0300" channel="GNT">
+    <title lang="pt">Que Marravilha Aula de Cozinha</title>
+    <desc lang="pt">O chef Claude Troisgros vai abrir sua cozinha para 10 celebridades que não tem ideia de como ferver um ovo e transformá-las em cozinheiros de respeito(n)</desc>
+    <credits>
+      <director>Roberto D'Ávila</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S21 E3</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180920233000 -0300" stop="20180921000000 -0300" channel="GNT">
+    <title lang="pt">Sabor em Jogo: Arroz Carreteiro</title>
+    <desc lang="pt">Para homenagear a mistura mais brasileira de todas, os jogadores mostram suas habilidades para entregar o melhor arroz carreteiro de suas vidas(n)</desc>
+    <credits>
+      <director>Carla Barreto de Barros</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180921000000 -0300" stop="20180921003000 -0300" channel="GNT">
+    <title lang="pt">O Amor é Lindo</title>
+    <desc lang="pt">O Amor é Lindo é uma série que celebra o amor em diferentes momentos da vida. Em cada episódio, dois casais, um completando bodas e outro se casando, revelam o que os mantém unidos através dos anos(n)</desc>
+    <credits>
+      <director>Andrea Cassola</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180921003000 -0300" stop="20180921010000 -0300" channel="GNT">
+    <title lang="pt">Cozinha Prática com Rita Lobo: Risoto De Funghi Na Panela De</title>
+    <desc lang="pt">Rita Lobo mostra que é possível preparar um jantar para amigos no meio da semana. No cardápio, um delicioso risoto, só que feito na panela de pressão. E você pode cozinhar com ela, em tempo real(n)</desc>
+    <credits>
+      <director>Sheila Kaomura</director>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180921010000 -0300" stop="20180921020000 -0300" channel="GNT">
+    <title lang="pt">Mestres da Renovação: Não Seja um Herói</title>
+    <desc lang="pt">Neste episódio de Mestres da Renovação, Kortney e Dave embarcam na transformação de uma antiga casa de fazenda. Tudo parece muito fácil, até que problemas se aproximam da propriedade(n)</desc>
+    <credits>
+      <director>Chace Alford</director>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180921020000 -0300" stop="20180921023000 -0300" channel="GNT">
+    <title lang="pt">Moda Revelada: Calcinha Fio-Dental, Delineador e Chapéu de Cowboy</title>
+    <desc lang="pt">Neste episódio de Moda Revelada, vemos como a calcinha fio-dental foi primeiro usada por homens, como o delineador revolucionou a indústria de cosméticos e a história por trás dos chapéus de cowboy(n)</desc>
+    <credits>
+      <director>Jonah Bekhor</director>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180921023000 -0300" stop="20180921030000 -0300" channel="GNT">
+    <title lang="pt">As Melhores Lojas de Noivas: Negócio Desonesto</title>
+    <desc lang="pt">Em Chicago, duas lojas especializadas em vestidos de casamento competem diariamente por clientes e dinheiro(n)</desc>
+    <credits>
+      <director>Joseph Fitzgerald</director>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180921030000 -0300" stop="20180921033000 -0300" channel="GNT">
+    <title lang="pt">Desengaveta: Thássia Naves</title>
+    <desc lang="pt">Fepa desbrava o closet de mais de 4500 peças de Thássia Naves. Fernanda Paes Leme capricha na lábia para arrematar peças com o carimbo da influenciadora digital para lojinha do Desengaveta(n)</desc>
+    <credits>
+      <director>Gustavo Mello</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180921033000 -0300" stop="20180921050000 -0300" channel="GNT">
+    <title lang="pt">Arpoador - Praia e Democracia</title>
+    <desc lang="pt">O documentário explora diferentes visões sobre a relação entre a praia e seus frequentadores, focando principalmente no Arpoador, famoso cartão-postal carioca(n)</desc>
+    <credits>
+      <director>Helio Pitanga</director>
+      <director>Hamsa Wood</director>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180921050000 -0300" stop="20180921060000 -0300" channel="GNT">
+    <title lang="pt">Que Marravilha Aula de Cozinha</title>
+    <desc lang="pt">O chef Claude Troisgros vai abrir sua cozinha para 10 celebridades que não tem ideia de como ferver um ovo e transformá-las em cozinheiros de respeito(n)</desc>
+    <credits>
+      <director>Roberto D'Ávila</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S21 E2</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180921060000 -0300" stop="20180921063000 -0300" channel="GNT">
+    <title lang="pt">Boas Vindas - Nasce um Irmão: Kadu e Ana Luísa, Júlia e</title>
+    <desc lang="pt">KADU é o irmão mais velho de ANA LUÍSA e aguarda a chegada da caçula, em um parto domiciliar. Os pais de JÚLIA E CECÍLIA sempre quiseram uma família grande e se preparam para ter 3 crianças em casa(n)</desc>
+    <credits>
+      <director>Rodrigo Hinrichsen</director>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180921063000 -0300" stop="20180921070000 -0300" channel="GNT">
+    <title lang="pt">O Amor é Lindo</title>
+    <desc lang="pt">O Amor é Lindo é uma série que celebra o amor em diferentes momentos da vida. Em cada episódio, dois casais, um completando bodas e outro se casando, revelam o que os mantém unidos através dos anos(n)</desc>
+    <credits>
+      <director>Andrea Cassola</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180921070000 -0300" stop="20180921073000 -0300" channel="GNT">
+    <title lang="pt">Moda Revelada: Vestido de Madrinha, Jaqueta de Aviador e Calça Skinny</title>
+    <desc lang="pt">Neste episódio de Moda Revelada, entendemos como surgiu a cultura do vestido das madrinhas, como a calça skinny se popularizou e as como as jaquetas de aviador viraram sinônimo de estilo(n)</desc>
+    <credits>
+      <director>Jonah Bekhor</director>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180921073000 -0300" stop="20180921080000 -0300" channel="GNT">
+    <title lang="pt">As Melhores Lojas de Noivas: Sexy Demais Para o Vestido</title>
+    <desc lang="pt">Em Chicago, duas lojas especializadas em vestidos de casamento competem diariamente por clientes e dinheiro(n)</desc>
+    <credits>
+      <director>Joseph Fitzgerald</director>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180921080000 -0300" stop="20180921090000 -0300" channel="GNT">
+    <title lang="pt">Decora</title>
+    <desc lang="pt">A cada semana, uma pessoa expõe para o programa qual é o problema com o cômodo que deseja reformar e como esse problema impacta a vida das pessoas que moram naquela casa ou apartamento(n)</desc>
+    <credits>
+      <director>Pedro Gorski</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S12 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180921090000 -0300" stop="20180921100000 -0300" channel="GNT">
+    <title lang="pt">Santa Ajuda</title>
+    <desc lang="pt">Micaela volta com um novo desafio: traçar um perfil de tipos de bagunceiros. Atendendo a denúncias de amigos e parentes desesperados, Micaela vai à caça dos bagunceiros para dar aquela Santa Ajuda(n)</desc>
+    <credits>
+      <director>Alfredo Stadtherr</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S10 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180921100000 -0300" stop="20180921110000 -0300" channel="GNT">
+    <title lang="pt">Cozinheiros em Ação: Batatada</title>
+    <desc lang="pt">A partir de agora, a competição vira individual e o bicho vai pegar Os cozinheiros vão preparar receitas com o tubérculo mais consumido do mundo: a batata(n)</desc>
+    <credits>
+      <director>Ricardo Pompeu</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S6 E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180921110000 -0300" stop="20180921113000 -0300" channel="GNT">
+    <title lang="pt">O Banquete de Jamie Oliver</title>
+    <desc lang="pt">Jamie mostra como fazer receitas ao ar livre enquanto aproveita um festival musical de verão. Ele prepara dosas indianas, galinha jerk, chocolate quente com churros e ainda dá dicas de como cozinhar na brasa com gravetos(n)</desc>
+    <credits>
+      <director>Brian Klein</director>
+    </credits>
+    <date>2011</date>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180921113000 -0300" stop="20180921120000 -0300" channel="GNT">
+    <title lang="pt">O Banquete de Jamie Oliver</title>
+    <desc lang="pt">Nesse episódio, Jamie prepara uma costela de porco na brasa ao ar livre, ovos pochê mexicanos, um bolo de panquecas que não vai ao forno e ainda dá dicas de como defumar o seu próprio peixe(n)</desc>
+    <credits>
+      <director>Brian Klein</director>
+    </credits>
+    <date>2011</date>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180921120000 -0300" stop="20180921130000 -0300" channel="GNT">
+    <title lang="pt">Chefs na Calada da Noite: Ousado e Fermentado</title>
+    <desc lang="pt">Chefs Na Calada da Noite é um confronto culinário passado no Chelsea Market, em NY, entre renomados chefs. Em cada episódio, três chefs competem em duas rodadas e disputam o grande prêmio da noite(n)</desc>
+    <credits>
+      <director>Christina Rich</director>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180921130000 -0300" stop="20180921140000 -0300" channel="GNT">
+    <title lang="pt">Mais Cor, Por Favor: (Decoração) - Um Chá de Bebê Cheio</title>
+    <desc lang="pt">Andreza, Rafael e o filho Joaquim adoram receber amigos em casa, mas a sala deles está apagada. Thalita renovará o espaço e a inauguração será com o chá de bebê para Andreza revelar se espera um menino ou uma menina(n)</desc>
+    <credits>
+      <director>Lucas Margutti</director>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180921140000 -0300" stop="20180921150000 -0300" channel="GNT">
+    <title lang="pt">Saia Justa</title>
+    <desc lang="pt">Presente na grade do canal desde 2002, o(n)</desc>
+    <credits>
+      <director>Patricia Rubano</director>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S17 E29</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180921150000 -0300" stop="20180921160000 -0300" channel="GNT">
+    <title lang="pt">Mais Cor, Por Favor</title>
+    <desc lang="pt">O Mais Cor Por Favor, apresentado por Thalita Carvalho, vai mostrar na 4ª temporada que um conjunto de pequenos projetos têm o poder de revolucionar um canto da casa(n)</desc>
+    <credits>
+      <director>Lígia Feliciano</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180921160000 -0300" stop="20180921170000 -0300" channel="GNT">
+    <title lang="pt">Que Marravilha Aula de Cozinha</title>
+    <desc lang="pt">O chef Claude Troisgros vai abrir sua cozinha para 10 celebridades que não tem ideia de como ferver um ovo e transformá-las em cozinheiros de respeito(n)</desc>
+    <credits>
+      <director>Roberto D'Ávila</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S21 E2</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180921170000 -0300" stop="20180921173000 -0300" channel="GNT">
+    <title lang="pt">O Amor é Lindo</title>
+    <desc lang="pt">O Amor é Lindo é uma série que celebra o amor em diferentes momentos da vida. Em cada episódio, dois casais, um completando bodas e outro se casando, revelam o que os mantém unidos através dos anos(n)</desc>
+    <credits>
+      <director>Andrea Cassola</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180921173000 -0300" stop="20180921180000 -0300" channel="GNT">
+    <title lang="pt">Desengaveta: Thássia Naves</title>
+    <desc lang="pt">Fepa desbrava o closet de mais de 4500 peças de Thássia Naves. Fernanda Paes Leme capricha na lábia para arrematar peças com o carimbo da influenciadora digital para lojinha do Desengaveta(n)</desc>
+    <credits>
+      <director>Gustavo Mello</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180921180000 -0300" stop="20180921190000 -0300" channel="GNT">
+    <title lang="pt">Saia Justa</title>
+    <desc lang="pt">Presente na grade do canal desde 2002, o(n)</desc>
+    <credits>
+      <director>Patricia Rubano</director>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S17 E29</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180921190000 -0300" stop="20180921200000 -0300" channel="GNT">
+    <title lang="pt">Mais Cor, Por Favor</title>
+    <desc lang="pt">O Mais Cor Por Favor, apresentado por Thalita Carvalho, vai mostrar na 4ª temporada que um conjunto de pequenos projetos têm o poder de revolucionar um canto da casa(n)</desc>
+    <credits>
+      <director>Lígia Feliciano</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180921200000 -0300" stop="20180921210000 -0300" channel="GNT">
+    <title lang="pt">Que Seja Doce: (Reality Show) - Santo Antônio</title>
+    <desc lang="pt">Homenageando Santo Antônio, O Santo Casamenteiro, os confeiteiros devem abusar dos doces românticos e afrodisíacos para conquistar a rainha dos doces gulosos, o rei das tendências e o nosso confeiteiro três em um(n)</desc>
+    <credits>
+      <director>Roberto Davila</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E26</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180921210000 -0300" stop="20180921213000 -0300" channel="GNT">
+    <title lang="pt">Tempero de Família: Lamonnyel Vieira</title>
+    <desc lang="pt">Rodrigo constrói um espeto vertical. Com Lamonnyel Vieira, que largou a vida de consultor para se dedicar ao mundo das carnes, faz um leitão à pururuca, farofa de ovo queimadinha e tomates confitados(n)</desc>
+    <credits>
+      <director>Gigi Soares</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S10 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180921213000 -0300" stop="20180921223000 -0300" channel="GNT">
+    <title lang="pt">Cozinheiros em Ação: Jardim da Cozinha</title>
+    <desc lang="pt">Os cheiros e sabores de ervas como o coentro, o manjericão e o hortelã invadem a nossa cozinha(n)</desc>
+    <credits>
+      <director>Ricardo Pompeu</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S6 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180921223000 -0300" stop="20180921233000 -0300" channel="GNT">
+    <title lang="pt">Que Marravilha Aula de Cozinha</title>
+    <desc lang="pt">O chef Claude Troisgros vai abrir sua cozinha para 10 celebridades que não tem ideia de como ferver um ovo e transformá-las em cozinheiros de respeito(n)</desc>
+    <credits>
+      <director>Roberto D'Ávila</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S21 E3</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180921233000 -0300" stop="20180922003000 -0300" channel="GNT">
+    <title lang="pt">Sabor em Jogo: Arroz Carreteiro</title>
+    <desc lang="pt">Para homenagear a mistura mais brasileira de todas, os jogadores mostram suas habilidades para entregar o melhor arroz carreteiro de suas vidas(n)</desc>
+    <credits>
+      <director>Carla Barreto de Barros</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180922003000 -0300" stop="20180922010000 -0300" channel="GNT">
+    <title lang="pt">Marmitas &amp; Merendas: Despertar Das Marmitas</title>
+    <desc lang="pt">O uso de marmitas é uma tendência de comportamento que vem se confirmando entre as pessoas que buscam ter mais controle sobre sua alimentação(n)</desc>
+    <credits>
+      <director>Tatiana De Lamare Noronha</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180922010000 -0300" stop="20180922013000 -0300" channel="GNT">
+    <title lang="pt">O Banquete de Jamie Oliver</title>
+    <desc lang="pt">Jamie mostra como fazer receitas ao ar livre enquanto aproveita um festival musical de verão. Ele prepara dosas indianas, galinha jerk, chocolate quente com churros e ainda dá dicas de como cozinhar na brasa com gravetos(n)</desc>
+    <credits>
+      <director>Brian Klein</director>
+    </credits>
+    <date>2011</date>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180922013000 -0300" stop="20180922020000 -0300" channel="GNT">
+    <title lang="pt">O Banquete de Jamie Oliver</title>
+    <desc lang="pt">Nesse episódio, Jamie prepara uma costela de porco na brasa ao ar livre, ovos pochê mexicanos, um bolo de panquecas que não vai ao forno e ainda dá dicas de como defumar o seu próprio peixe(n)</desc>
+    <credits>
+      <director>Brian Klein</director>
+    </credits>
+    <date>2011</date>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180922020000 -0300" stop="20180922023000 -0300" channel="GNT">
+    <title lang="pt">Moda Revelada: Vestido de Madrinha, Jaqueta de Aviador e Calça Skinny</title>
+    <desc lang="pt">Neste episódio de Moda Revelada, entendemos como surgiu a cultura do vestido das madrinhas, como a calça skinny se popularizou e as como as jaquetas de aviador viraram sinônimo de estilo(n)</desc>
+    <credits>
+      <director>Jonah Bekhor</director>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180922023000 -0300" stop="20180922030000 -0300" channel="GNT">
+    <title lang="pt">As Melhores Lojas de Noivas: Sexy Demais Para o Vestido</title>
+    <desc lang="pt">Em Chicago, duas lojas especializadas em vestidos de casamento competem diariamente por clientes e dinheiro(n)</desc>
+    <credits>
+      <director>Joseph Fitzgerald</director>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180922030000 -0300" stop="20180922033000 -0300" channel="GNT">
+    <title lang="pt">Bela Cozinha: Tainá Müller</title>
+    <desc lang="pt">Neste episódio, a meta é comer bem e economizar. Bela prepara um macarrão ao pesto de rama de cenoura, jaca verde frita e suco de folha de limoeiro com maçã. A convidada do dia é Tainá Muller(n)</desc>
+    <credits>
+      <director>Fernanda Reyes Novaes</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S4 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180922033000 -0300" stop="20180922043000 -0300" channel="GNT">
+    <title lang="pt">Saia Justa</title>
+    <desc lang="pt">Presente na grade do canal desde 2002, o(n)</desc>
+    <credits>
+      <director>Patricia Rubano</director>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S17 E29</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180922043000 -0300" stop="20180922053000 -0300" channel="GNT">
+    <title lang="pt">Sabor em Jogo: Arroz Carreteiro</title>
+    <desc lang="pt">Para homenagear a mistura mais brasileira de todas, os jogadores mostram suas habilidades para entregar o melhor arroz carreteiro de suas vidas(n)</desc>
+    <credits>
+      <director>Carla Barreto de Barros</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180922053000 -0300" stop="20180922060000 -0300" channel="GNT">
+    <title lang="pt">Marmitas &amp; Merendas: Despertar Das Marmitas</title>
+    <desc lang="pt">O uso de marmitas é uma tendência de comportamento que vem se confirmando entre as pessoas que buscam ter mais controle sobre sua alimentação(n)</desc>
+    <credits>
+      <director>Tatiana De Lamare Noronha</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180922060000 -0300" stop="20180922070000 -0300" channel="GNT">
+    <title lang="pt">Superbonita: Personagens Sobrenaturais e Pop Art</title>
+    <desc lang="pt">Nesse episódio do Superbonita, com Karol Conka e Giovanna Ewbank, maquiadores enfrentam provas com os temas Personagens Sobrenaturais e Pop Art(n)</desc>
+    <credits>
+      <director>Fernanda Reyes Novaes</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S19 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180922070000 -0300" stop="20180922073000 -0300" channel="GNT">
+    <title lang="pt">Moda Revelada: Barriga de Fora, Blazer Feminino e o Fedora</title>
+    <desc lang="pt">Neste episódio de Moda Revelada, vamos ver como um presidente quase aboliu o uso do Fedora, como os deuses hindus começaram uma revolução da moda e como surgiu a cultura da barriga de fora(n)</desc>
+    <credits>
+      <director>Jonah Bekhor</director>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180922073000 -0300" stop="20180922080000 -0300" channel="GNT">
+    <title lang="pt">As Melhores Lojas de Noivas: Na Linha</title>
+    <desc lang="pt">Em Chicago, duas lojas especializadas em vestidos de casamento competem diariamente por clientes e dinheiro(n)</desc>
+    <credits>
+      <director>Joseph Fitzgerald</director>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180922080000 -0300" stop="20180922083000 -0300" channel="GNT">
+    <title lang="pt">Admirável Móvel Novo: Admirável Cozinha Retrô 4ª</title>
+    <desc lang="pt">Priscilla é uma produtora que anos atrás decidiu se dedicar à sua paixão por culinária. Hoje, ela deseja transformar o que sobrou do seu antigo restaurante, um conjunto retrô com mesa e seis cadeiras(n)</desc>
+    <credits>
+      <director>Renata Sauda</director>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180922083000 -0300" stop="20180922090000 -0300" channel="GNT">
+    <title lang="pt">Boas Vindas - Nasce um Irmão: Kadu e Ana Luísa, Júlia e</title>
+    <desc lang="pt">KADU é o irmão mais velho de ANA LUÍSA e aguarda a chegada da caçula, em um parto domiciliar. Os pais de JÚLIA E CECÍLIA sempre quiseram uma família grande e se preparam para ter 3 crianças em casa(n)</desc>
+    <credits>
+      <director>Rodrigo Hinrichsen</director>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180922090000 -0300" stop="20180922093000 -0300" channel="GNT">
+    <title lang="pt">O Amor é Lindo</title>
+    <desc lang="pt">O Amor é Lindo é uma série que celebra o amor em diferentes momentos da vida. Em cada episódio, dois casais, um completando bodas e outro se casando, revelam o que os mantém unidos através dos anos(n)</desc>
+    <credits>
+      <director>Andrea Cassola</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180922093000 -0300" stop="20180922100000 -0300" channel="GNT">
+    <title lang="pt">Bela Cozinha: Tainá Müller</title>
+    <desc lang="pt">Neste episódio, a meta é comer bem e economizar. Bela prepara um macarrão ao pesto de rama de cenoura, jaca verde frita e suco de folha de limoeiro com maçã. A convidada do dia é Tainá Muller(n)</desc>
+    <credits>
+      <director>Fernanda Reyes Novaes</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S4 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180922100000 -0300" stop="20180922103000 -0300" channel="GNT">
+    <title lang="pt">Perto do Fogo: Bbq Em Casa E Doutor Breja</title>
+    <desc lang="pt">Felipe Bronze recebe André Dias, do BBQ em casa e Alexandre Fernandes, o Doutor Breja. O chef faz receitas deliciosas com lombo e costelinha de porco. Pra finalizar, uma cerveja berliner weisse(n)</desc>
+    <credits>
+      <director>Olívia Guimarães</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S3 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180922103000 -0300" stop="20180922110000 -0300" channel="GNT">
+    <title lang="pt">Marmitas &amp; Merendas: Despertar Das Marmitas</title>
+    <desc lang="pt">O uso de marmitas é uma tendência de comportamento que vem se confirmando entre as pessoas que buscam ter mais controle sobre sua alimentação(n)</desc>
+    <credits>
+      <director>Tatiana De Lamare Noronha</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180922110000 -0300" stop="20180922120000 -0300" channel="GNT">
+    <title lang="pt">Fala na Minha Cara</title>
+    <desc lang="pt">Teddy B vai receber a ajuda de dois chefs convidados para tentar salvar o Equator Caf. Os comentários amargos na internet estão destruindo a confiança do dono(n)</desc>
+    <credits>
+      <director>Jennifer Davidson</director>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180922120000 -0300" stop="20180922130000 -0300" channel="GNT">
+    <title lang="pt">Chefs na Calada da Noite: Em Mãos</title>
+    <desc lang="pt">Chefs Na Calada da Noite é um confronto culinário passado no Chelsea Market, em NY, entre renomados chefs. Em cada episódio, três chefs competem em duas rodadas e disputam o grande prêmio da noite(n)</desc>
+    <credits>
+      <director>Christina Rich</director>
+    </credits>
+    <date>2014</date>
     <episode-num system="onscreen">E5</episode-num>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20180923115000 -0300" stop="20180923134000 -0300" channel="AMC">
-    <title lang="pt">O Monge à Prova de Balas</title>
-    <desc lang="pt">Há 60 anos um monge protege um pergaminho sagrado que dá incríveis poderes ao seu guardião. Mas agora ele tem uma difícil tarefa pela frente, treinar um garoto muito malandro para ser seu substituto(n)</desc>
+  <programme start="20180922130000 -0300" stop="20180922140000 -0300" channel="GNT">
+    <title lang="pt">Mais Cor, Por Favor 2ª Temp</title>
+    <desc lang="pt">A especialista em design, decoração e trabalhos manuais Thalita Carvalho vai usar suas habilidades para mobilizar sua rede de contatos e conseguir renovar espaços, sempre demonstrando o passo a passo das transformações(n)</desc>
     <credits>
-      <director>Paul Hunter</director>
-      <actor>Chow Yun-Fat</actor>
-      <actor>Seann William Scott</actor>
-      <actor>Jaime King</actor>
-      <actor>Karel Roden</actor>
-      <actor>Victoria Smurfit</actor>
-      <actor>Marcus Jean Pirae</actor>
-      <actor>Roger Yuan</actor>
-      <actor>Sean Bell</actor>
-      <actor>Rob Archer</actor>
-      <actor>Bayo Akinfemi</actor>
+      <director>Lucas Margutti</director>
     </credits>
-    <date>2003</date>
-    <rating system="BR">
-      <value>11+</value>
-    </rating>
-  </programme>
-  <programme start="20180923134000 -0300" stop="20180923154000 -0300" channel="AMC">
-    <title lang="pt">Peter Pan</title>
-    <desc lang="pt">O pai de Wendy acha que a filha não é mais criança. Mas Peter Pan, o menino que não quer crescer, a leva para a Terra do Nunca, um lugar livre das regras dos adultos. Ao lado de fada Sininho, eles vivem grandes aventuras(n)</desc>
-    <credits>
-      <director>P.J. Hogan</director>
-      <actor>Jason Isaacs</actor>
-      <actor>Jeremy Sumpter</actor>
-      <actor>Rachel Hurd-Wood</actor>
-      <actor>Lynn Redgrave</actor>
-      <actor>Richard Briers</actor>
-      <actor>Olivia Williams</actor>
-      <actor>Ludivine Sagnier</actor>
-      <actor>George MacKay</actor>
-      <actor>Harry Haden</actor>
-      <actor>Patrick Gooch</actor>
-    </credits>
-    <date>2003</date>
-    <rating system="BR">
-      <value>7+</value>
-    </rating>
-  </programme>
-  <programme start="20180923154000 -0300" stop="20180923173500 -0300" channel="AMC">
-    <title lang="pt">Zathura - Uma Aventura Espacial</title>
-    <desc lang="pt">Danny e Walter cuidam da irmã mais nova enquanto o pai está fora trabalhando. Juntos os três descobrem, no sótão da casa, um misterioso jogo chamado Zathura. E começa assim uma incrível e imprevisível viagem ao espaço(n)</desc>
-    <credits>
-      <director>Jon Favreau</director>
-      <actor>Josh Hutcherson</actor>
-      <actor>Jonah Bobo</actor>
-      <actor>Dax Shepard</actor>
-      <actor>Kristen Stewart</actor>
-      <actor>Tim Robbins</actor>
-      <actor>Frank Oz</actor>
-      <actor>John Alexander</actor>
-      <actor>Derek Mears</actor>
-      <actor>Douglas Tait</actor>
-      <actor>Joe Bucaro III</actor>
-      <actor>Jeff Wolfe</actor>
-    </credits>
-    <date>2005</date>
+    <date>2016</date>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20180923173500 -0300" stop="20180923190500 -0300" channel="AMC">
-    <title lang="pt">O Bicho Vai Pegar 2</title>
-    <desc lang="pt">Giselle e Elliot se preparam para o casamento, mas o caminho ao altar muda quando Mr. Weenie é sequestrado por um grupo de mascotes que pretendem devolvê-lo a seus donos. Seus amigos saem numa aventura para resgatar o cão(n)</desc>
+  <programme start="20180922140000 -0300" stop="20180922150000 -0300" channel="GNT">
+    <title lang="pt">Cozinheiros em Ação: Jardim da Cozinha</title>
+    <desc lang="pt">Os cheiros e sabores de ervas como o coentro, o manjericão e o hortelã invadem a nossa cozinha(n)</desc>
     <credits>
-      <director>Matthew O'Callaghan</director>
-      <director>Todd Wilderman</director>
-      <actor>Vozes de Mike Epps</actor>
-      <actor>Joel McHale</actor>
-      <actor>Jane Krakowski</actor>
-      <actor>Billy Connolly</actor>
-      <actor>Crispin Glover</actor>
-      <actor>Steve Schirripa</actor>
-      <actor>Diedrich Bader</actor>
+      <director>Ricardo Pompeu</director>
     </credits>
-    <date>2008</date>
+    <date>2016</date>
+    <episode-num system="onscreen">S6 E7</episode-num>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20180923190500 -0300" stop="20180923204000 -0300" channel="AMC">
-    <title lang="pt">O Lorax - Em Busca da Trúfula Perdida</title>
-    <desc lang="pt">Ted vive em um lugar onde as árvores são feitas de plástico e tudo é artificial. Ele deixa a cidade na intenção de trazer uma árvore real para impressionar a garota por quem é apaixonado(n)</desc>
+  <programme start="20180922150000 -0300" stop="20180922160000 -0300" channel="GNT">
+    <title lang="pt">Mais Cor, Por Favor</title>
+    <desc lang="pt">O Mais Cor Por Favor, apresentado por Thalita Carvalho, vai mostrar na 4ª temporada que um conjunto de pequenos projetos têm o poder de revolucionar um canto da casa(n)</desc>
     <credits>
-      <director>Chris Renaud</director>
-      <director>Kyle Balda</director>
-      <actor>Vozes de Danny Devito</actor>
-      <actor>Zac Efron</actor>
-      <actor>Taylor Swift</actor>
-      <actor>Ed Helms</actor>
-      <actor>Rob Riggle</actor>
-      <actor>Betty White</actor>
+      <director>Lígia Feliciano</director>
     </credits>
-    <date>2012</date>
+    <date>2018</date>
+    <episode-num system="onscreen">S4 E4</episode-num>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20180923204000 -0300" stop="20180923223000 -0300" channel="AMC">
-    <title lang="pt">O Zelador Animal</title>
-    <desc lang="pt">Griffin é zelador de um zoológico. Ele adora o trabalho, mas sua namorada não gosta do cargo que ele ocupa e o abandona. Quando ele pensa em largar o posto, os animais quebram as regras e revelam um segredo: eles falam(n)</desc>
+  <programme start="20180922160000 -0300" stop="20180922170000 -0300" channel="GNT">
+    <title lang="pt">Decora</title>
+    <desc lang="pt">A cada semana, uma pessoa expõe para o programa qual é o problema com o cômodo que deseja reformar e como esse problema impacta a vida das pessoas que moram naquela casa ou apartamento(n)</desc>
     <credits>
-      <director>Frank Coraci</director>
-      <actor>Kevin James</actor>
-      <actor>Rosario Dawson</actor>
-      <actor>Leslie Bibb</actor>
-      <actor>Ken Jeong</actor>
-      <actor>Donnie Wahlberg</actor>
-      <actor>Joe Rogan</actor>
+      <director>Pedro Gorski</director>
     </credits>
-    <date>2011</date>
+    <date>2016</date>
+    <episode-num system="onscreen">S12 E20</episode-num>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20180923223000 -0300" stop="20180924005000 -0300" channel="AMC">
-    <title lang="pt">Branca de Neve e o Caçador</title>
-    <desc lang="pt">Contratado para matar Branca de Neve, o Caçador se recusa e, numa interessante volta ao clássico infantil, treina-a para derrotar a Rainha Malvada(n)</desc>
+  <programme start="20180922170000 -0300" stop="20180922180000 -0300" channel="GNT">
+    <title lang="pt">Santa Ajuda</title>
+    <desc lang="pt">Micaela volta com um novo desafio: traçar um perfil de tipos de bagunceiros. Atendendo a denúncias de amigos e parentes desesperados, Micaela vai à caça dos bagunceiros para dar aquela Santa Ajuda(n)</desc>
     <credits>
-      <director>Rupert Sanders</director>
-      <actor>Kristen Stewart</actor>
-      <actor>Chris Hemsworth</actor>
-      <actor>Charlize Theron</actor>
-      <actor>Sam Claflin</actor>
+      <director>Alfredo Stadtherr</director>
     </credits>
-    <date>2012</date>
-    <rating system="BR">
-      <value>9+</value>
-    </rating>
-  </programme>
-  <programme start="20180924005000 -0300" stop="20180924024500 -0300" channel="AMC">
-    <title lang="pt">Zathura - Uma Aventura Espacial</title>
-    <desc lang="pt">Danny e Walter cuidam da irmã mais nova enquanto o pai está fora trabalhando. Juntos os três descobrem, no sótão da casa, um misterioso jogo chamado Zathura. E começa assim uma incrível e imprevisível viagem ao espaço(n)</desc>
-    <credits>
-      <director>Jon Favreau</director>
-      <actor>Josh Hutcherson</actor>
-      <actor>Jonah Bobo</actor>
-      <actor>Dax Shepard</actor>
-      <actor>Kristen Stewart</actor>
-      <actor>Tim Robbins</actor>
-      <actor>Frank Oz</actor>
-      <actor>John Alexander</actor>
-      <actor>Derek Mears</actor>
-      <actor>Douglas Tait</actor>
-      <actor>Joe Bucaro III</actor>
-      <actor>Jeff Wolfe</actor>
-    </credits>
-    <date>2005</date>
+    <date>2017</date>
+    <episode-num system="onscreen">S10 E20</episode-num>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20180924024500 -0300" stop="20180924043000 -0300" channel="AMC">
-    <title lang="pt">A Loja Mágica de Brinquedos</title>
-    <desc lang="pt">Magorium tem 243 anos de idade e é dono da loja de brinquedos mais fantástica do mundo. Tudo lá é mágico e parece ter vida(n)</desc>
+  <programme start="20180922180000 -0300" stop="20180922190000 -0300" channel="GNT">
+    <title lang="pt">Fazendo a Festa: Robôs</title>
+    <desc lang="pt">O Fazendo a Festa de hoje entra no universo cibernético para comemorar os 6 anos do Arthur com uma festa como ele sempre sonhou: cheia de robôs. O aniversariante dá várias dicas para Fernanda Rodrigues. A farra vai ser boa(n)</desc>
     <credits>
-      <director>Zach Helm</director>
-      <actor>Dustin Hoffman</actor>
-      <actor>Natalie Portman</actor>
-      <actor>Jason Bateman</actor>
-      <actor>Madalena Brancatella</actor>
-      <actor>Zach Mills</actor>
-      <actor>Ted Ludzik</actor>
-      <actor>Paula Boudreau</actor>
-      <actor>Mike Realba</actor>
-      <actor>Marcia Bennett</actor>
+      <director>Gabriel Edel</director>
+      <actor>Fernanda Rodrigues</actor>
     </credits>
-    <date>2007</date>
+    <date>2016</date>
+    <episode-num system="onscreen">S6 E18</episode-num>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20180924043000 -0300" stop="20180924060500 -0300" channel="AMC">
-    <title lang="pt">Penelope</title>
-    <desc lang="pt">Penelope sofre de uma antiga maldição. Sua mãe crê que se puder casá-la com um homem de sangue azul a maldição será quebrada e ela será normal(n)</desc>
+  <programme start="20180922190000 -0300" stop="20180922200000 -0300" channel="GNT">
+    <title lang="pt">Mais Cor, Por Favor</title>
+    <desc lang="pt">O Mais Cor Por Favor, apresentado por Thalita Carvalho, vai mostrar na 4ª temporada que um conjunto de pequenos projetos têm o poder de revolucionar um canto da casa(n)</desc>
     <credits>
-      <director>Mark Palansky</director>
-      <actor>Christina Ricci</actor>
-      <actor>James McAvoy</actor>
-      <actor>Catherine O'Hara</actor>
-      <actor>Reese Witherspoon</actor>
-      <actor>Peter Dinklage</actor>
-      <actor>Simon Woods</actor>
-      <actor>Ronni Ancona</actor>
+      <director>Lígia Feliciano</director>
     </credits>
-    <date>2006</date>
+    <date>2018</date>
+    <episode-num system="onscreen">S4 E5</episode-num>
     <rating system="BR">
-      <value>11+</value>
+      <value>0+</value>
     </rating>
   </programme>
-  <programme start="20180924060500 -0300" stop="20180924070000 -0300" channel="AMC">
-    <title lang="pt">Animal Kingdom</title>
-    <desc lang="pt">Joshua(n)</desc>
+  <programme start="20180922200000 -0300" stop="20180922210000 -0300" channel="GNT">
+    <title lang="pt">Que Seja Doce: (Reality Show) - Festa Do Peão</title>
+    <desc lang="pt">As festas de peão são um pilar da cultura caipira e sempre prometem muita comilança Para laçar o troféu de hoje, nossos confeiteiros precisam provar que dominam a cozinha melhor que um peão domina seu touro(n)</desc>
     <credits>
-      <director>Dave Rodriguez</director>
-      <actor>Molly Gordon</actor>
-      <actor>Daniella Alonso</actor>
-      <actor>Ellen Barkin</actor>
-      <actor>Scott Speedman</actor>
-      <actor>Shawn Hatosy</actor>
-      <actor>Ben Robson</actor>
-      <actor>Jake Weary</actor>
-      <actor>Finn Cole</actor>
+      <director>Roberto Davila</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180922210000 -0300" stop="20180922220000 -0300" channel="GNT">
+    <title lang="pt">Fazendo a Festa: Capitão Cueca</title>
+    <desc lang="pt">O Capitão Cueca vai aprontar no Fazendo a Festa de hoje. O João adora o personagem e decidiu que ele seria o tema de sua festa. Fernanda Rodrigues e a liga preparam boas surpresas para comemorar os 8 anos do João(n)</desc>
+    <credits>
+      <director>Gabriel Edel</director>
+      <actor>Fernanda Rodrigues</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S6 E19</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180922220000 -0300" stop="20180922230000 -0300" channel="GNT">
+    <title lang="pt">Lugar de Criança: Luisa (Paris)</title>
+    <desc lang="pt">A Luisa é apaixonada por Paris e está prestes a ganhar a irmã que tanto sonhou(n)</desc>
+    <credits>
+      <director>Isabella Ponce De Leon</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180922230000 -0300" stop="20180922233000 -0300" channel="GNT">
+    <title lang="pt">Boas Vindas - Nasce um Irmão</title>
+    <desc lang="pt">A proposta desta nova temporada é trazer de volta o programa Boas Vindas, aproveitando elementos que deram certo em suas temporadas passadas(n)</desc>
+    <credits>
+      <director>Rodrigo Hinrichsen</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S11 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180922233000 -0300" stop="20180923003000 -0300" channel="GNT">
+    <title lang="pt">O Amor é Lindo</title>
+    <desc lang="pt">O Amor é Lindo é uma série que celebra o amor em diferentes momentos da vida. Em cada episódio, dois casais, um completando bodas e outro se casando, revelam o que os mantém unidos através dos anos(n)</desc>
+    <credits>
+      <director>Andrea Cassola</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180923003000 -0300" stop="20180923010000 -0300" channel="GNT">
+    <title lang="pt">Marmitas &amp; Merendas: Despertar Das Marmitas</title>
+    <desc lang="pt">O uso de marmitas é uma tendência de comportamento que vem se confirmando entre as pessoas que buscam ter mais controle sobre sua alimentação(n)</desc>
+    <credits>
+      <director>Tatiana De Lamare Noronha</director>
     </credits>
     <date>2017</date>
     <episode-num system="onscreen">S2 E7</episode-num>
     <rating system="BR">
-      <value>13+</value>
+      <value>0+</value>
     </rating>
   </programme>
-  <programme start="20180924070000 -0300" stop="20180924073000 -0300" channel="AMC">
-    <title lang="pt">Action Zone</title>
-    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
-    <rating system="BR">
-      <value>9+</value>
-    </rating>
-  </programme>
-  <programme start="20180924073000 -0300" stop="20180924080000 -0300" channel="AMC">
-    <title lang="pt">Action Zone</title>
-    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
-    <rating system="BR">
-      <value>9+</value>
-    </rating>
-  </programme>
-  <programme start="20180924080000 -0300" stop="20180924083000 -0300" channel="AMC">
-    <title lang="pt">Programação Paga</title>
-    <desc lang="pt">Indisponível(n)</desc>
+  <programme start="20180923010000 -0300" stop="20180923013000 -0300" channel="GNT">
+    <title lang="pt">O Banquete de Jamie Oliver</title>
+    <desc lang="pt">Jamie mostra como fazer receitas ao ar livre enquanto aproveita um festival musical de verão. Ele prepara dosas indianas, galinha jerk, chocolate quente com churros e ainda dá dicas de como cozinhar na brasa com gravetos(n)</desc>
+    <credits>
+      <director>Brian Klein</director>
+    </credits>
+    <date>2011</date>
+    <episode-num system="onscreen">E1</episode-num>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20180924083000 -0300" stop="20180924090000 -0300" channel="AMC">
-    <title lang="pt">Programação Paga</title>
-    <desc lang="pt">Indisponível(n)</desc>
+  <programme start="20180923013000 -0300" stop="20180923020000 -0300" channel="GNT">
+    <title lang="pt">O Banquete de Jamie Oliver</title>
+    <desc lang="pt">Nesse episódio, Jamie prepara uma costela de porco na brasa ao ar livre, ovos pochê mexicanos, um bolo de panquecas que não vai ao forno e ainda dá dicas de como defumar o seu próprio peixe(n)</desc>
+    <credits>
+      <director>Brian Klein</director>
+    </credits>
+    <date>2011</date>
+    <episode-num system="onscreen">E2</episode-num>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20180924090000 -0300" stop="20180924093000 -0300" channel="AMC">
-    <title lang="pt">Programação Paga</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180924093000 -0300" stop="20180924100000 -0300" channel="AMC">
-    <title lang="pt">Programação Paga</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180924100000 -0300" stop="20180924110000 -0300" channel="AMC">
-    <title lang="pt">Animal Kingdom</title>
-    <desc lang="pt">Joshua(n)</desc>
+  <programme start="20180923020000 -0300" stop="20180923023000 -0300" channel="GNT">
+    <title lang="pt">Moda Revelada: Vestido de Madrinha, Jaqueta de Aviador e Calça Skinny</title>
+    <desc lang="pt">Neste episódio de Moda Revelada, entendemos como surgiu a cultura do vestido das madrinhas, como a calça skinny se popularizou e as como as jaquetas de aviador viraram sinônimo de estilo(n)</desc>
     <credits>
-      <director>Emmy Rossum</director>
-      <actor>Molly Gordon</actor>
-      <actor>Daniella Alonso</actor>
-      <actor>Ellen Barkin</actor>
-      <actor>Scott Speedman</actor>
-      <actor>Shawn Hatosy</actor>
-      <actor>Ben Robson</actor>
-      <actor>Jake Weary</actor>
-      <actor>Finn Cole</actor>
+      <director>Jonah Bekhor</director>
     </credits>
-    <date>2017</date>
-    <episode-num system="onscreen">S2 E4</episode-num>
-    <rating system="BR">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme start="20180924110000 -0300" stop="20180924120000 -0300" channel="AMC">
-    <title lang="pt">Animal Kingdom</title>
-    <desc lang="pt">Joshua(n)</desc>
-    <credits>
-      <director>Laura Innes</director>
-      <actor>Molly Gordon</actor>
-      <actor>Daniella Alonso</actor>
-      <actor>Ellen Barkin</actor>
-      <actor>Scott Speedman</actor>
-      <actor>Shawn Hatosy</actor>
-      <actor>Ben Robson</actor>
-      <actor>Jake Weary</actor>
-      <actor>Finn Cole</actor>
-    </credits>
-    <date>2017</date>
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <rating system="BR">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme start="20180924120000 -0300" stop="20180924123000 -0300" channel="AMC">
-    <title lang="pt">Comic Book Men</title>
-    <desc lang="pt">Kevin Smith e os homens carismáticos do Secret Stash de Jay e Silent Bob estão de volta para palhaçadas e diversão na série sem roteiro Comic Book Men(n)</desc>
-    <credits>
-      <director>Kevin Smith</director>
-      <actor>Kevin Smith</actor>
-      <actor>Walter Flanagan</actor>
-      <actor>Mike Zapcic</actor>
-      <actor>Bryan Johnson</actor>
-      <actor>Ming Chen</actor>
-      <actor>Jason Mewes</actor>
-    </credits>
-    <date>2017</date>
-    <episode-num system="onscreen">S7 E10</episode-num>
+    <date>2015</date>
     <rating system="BR">
       <value>9+</value>
     </rating>
   </programme>
-  <programme start="20180924123000 -0300" stop="20180924130000 -0300" channel="AMC">
-    <title lang="pt">Action Zone</title>
-    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
-    <rating system="BR">
-      <value>9+</value>
-    </rating>
-  </programme>
-  <programme start="20180924130000 -0300" stop="20180924145500 -0300" channel="AMC">
-    <title lang="pt">Escola de Idiotas</title>
-    <desc lang="pt">Sofrendo de ansiedade e baixa estima, um guarda de trânsito decide se matricular em um curso que promete tornar a pessoa mais confiante. Só que o professor é um tremendo picareta(n)</desc>
+  <programme start="20180923023000 -0300" stop="20180923030000 -0300" channel="GNT">
+    <title lang="pt">As Melhores Lojas de Noivas: Sexy Demais Para o Vestido</title>
+    <desc lang="pt">Em Chicago, duas lojas especializadas em vestidos de casamento competem diariamente por clientes e dinheiro(n)</desc>
     <credits>
-      <director>Todd Phillips</director>
-      <actor>Billy Bob Thornton</actor>
-      <actor>Jon Heder</actor>
-      <actor>Jacinda Barrett</actor>
-      <actor>Michael Clarke Duncan</actor>
-      <actor>Sarah Silverman</actor>
-      <actor>David Cross</actor>
-      <actor>Matt Walsh</actor>
-      <actor>Todd Louiso</actor>
-      <actor>DeRay Davis</actor>
+      <director>Joseph Fitzgerald</director>
     </credits>
-    <date>2006</date>
-    <rating system="BR">
-      <value>11+</value>
-    </rating>
-  </programme>
-  <programme start="20180924145500 -0300" stop="20180924165500 -0300" channel="AMC">
-    <title lang="pt">Outono em Nova York</title>
-    <desc lang="pt">Playboy cinqüentão e mulherengo convicto, promete nunca ter compromisso sério. Mas conhece Charlotte, seu grande amor, por quem se apaixona perdidamente(n)</desc>
-    <credits>
-      <director>Joan Chen</director>
-      <actor>Richard Gere</actor>
-      <actor>Winona Ryder</actor>
-      <actor>Anthony LaPaglia</actor>
-      <actor>Elaine Stritch</actor>
-      <actor>Ver Farmiga</actor>
-      <actor>Sherry Stringfield</actor>
-      <actor>Jill Hennessy</actor>
-      <actor>J. K. Simmons</actor>
-      <actor>Sam Trammell</actor>
-      <actor>Mary Beth Hurt</actor>
-      <actor>Kali Rocha</actor>
-      <actor>Steven Randazzo</actor>
-      <actor>Toby Poser</actor>
-      <actor>George Speilvogel III</actor>
-      <actor>Ranjit Chowdhry</actor>
-    </credits>
-    <date>2000</date>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E4</episode-num>
     <rating system="BR">
       <value>7+</value>
     </rating>
   </programme>
-  <programme start="20180924165500 -0300" stop="20180924190500 -0300" channel="AMC">
-    <title lang="pt">O Que Esperar Quando Você Está Esperando</title>
-    <desc lang="pt">A chegada de um filho à família é coisa séria, mas no caso destes cinco casais, a incerteza e os medos fazem deste filme uma divertida comédia cheia de amor. Os pais são os protagonistas desta fantástica história(n)</desc>
+  <programme start="20180923030000 -0300" stop="20180923033000 -0300" channel="GNT">
+    <title lang="pt">Bela Cozinha: Tainá Müller</title>
+    <desc lang="pt">Neste episódio, a meta é comer bem e economizar. Bela prepara um macarrão ao pesto de rama de cenoura, jaca verde frita e suco de folha de limoeiro com maçã. A convidada do dia é Tainá Muller(n)</desc>
     <credits>
-      <director>Kirk Jones</director>
-      <actor>Cameron Diaz</actor>
-      <actor>Jennifer Lopez</actor>
-      <actor>Elizabeth Banks</actor>
-      <actor>Chace Crawford</actor>
-      <actor>Brooklyn Decker</actor>
+      <director>Fernanda Reyes Novaes</director>
     </credits>
-    <date>2012</date>
+    <date>2017</date>
+    <episode-num system="onscreen">S4 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180923033000 -0300" stop="20180923043000 -0300" channel="GNT">
+    <title lang="pt">Saia Justa</title>
+    <desc lang="pt">Presente na grade do canal desde 2002, o(n)</desc>
+    <credits>
+      <director>Patricia Rubano</director>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S17 E29</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180923043000 -0300" stop="20180923053000 -0300" channel="GNT">
+    <title lang="pt">Sabor em Jogo: Arroz Carreteiro</title>
+    <desc lang="pt">Para homenagear a mistura mais brasileira de todas, os jogadores mostram suas habilidades para entregar o melhor arroz carreteiro de suas vidas(n)</desc>
+    <credits>
+      <director>Carla Barreto de Barros</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180923053000 -0300" stop="20180923060000 -0300" channel="GNT">
+    <title lang="pt">Marmitas &amp; Merendas: Despertar Das Marmitas</title>
+    <desc lang="pt">O uso de marmitas é uma tendência de comportamento que vem se confirmando entre as pessoas que buscam ter mais controle sobre sua alimentação(n)</desc>
+    <credits>
+      <director>Tatiana De Lamare Noronha</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180923060000 -0300" stop="20180923070000 -0300" channel="GNT">
+    <title lang="pt">Superbonita: Personagens Sobrenaturais e Pop Art</title>
+    <desc lang="pt">Nesse episódio do Superbonita, com Karol Conka e Giovanna Ewbank, maquiadores enfrentam provas com os temas Personagens Sobrenaturais e Pop Art(n)</desc>
+    <credits>
+      <director>Fernanda Reyes Novaes</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S19 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180923070000 -0300" stop="20180923073000 -0300" channel="GNT">
+    <title lang="pt">Moda Revelada: Barriga de Fora, Blazer Feminino e o Fedora</title>
+    <desc lang="pt">Neste episódio de Moda Revelada, vamos ver como um presidente quase aboliu o uso do Fedora, como os deuses hindus começaram uma revolução da moda e como surgiu a cultura da barriga de fora(n)</desc>
+    <credits>
+      <director>Jonah Bekhor</director>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E5</episode-num>
     <rating system="BR">
       <value>9+</value>
     </rating>
   </programme>
-  <programme start="20180924190500 -0300" stop="20180924205000 -0300" channel="AMC">
-    <title lang="pt">Largou as Botas e Mergulhou no Céu</title>
-    <desc lang="pt">Dilemas e conflitos entre ficar ou partir, permanecer ou mudar, sagrado ou profano são costurados por personagens reais e ficticios entre o Natal e o Carnaval, o período sabático do Brasil. A região é o Nordeste(n)</desc>
+  <programme start="20180923073000 -0300" stop="20180923080000 -0300" channel="GNT">
+    <title lang="pt">As Melhores Lojas de Noivas: Na Linha</title>
+    <desc lang="pt">Em Chicago, duas lojas especializadas em vestidos de casamento competem diariamente por clientes e dinheiro(n)</desc>
     <credits>
-      <director>Bruno Graziano</director>
-      <director>Cauê Gruber</director>
-      <actor>Ana Paula Arcoverde</actor>
-      <actor>Cláudio Assis</actor>
-      <actor>Halder Gomes</actor>
+      <director>Joseph Fitzgerald</director>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180923080000 -0300" stop="20180923083000 -0300" channel="GNT">
+    <title lang="pt">Admirável Móvel Novo: Admirável Cozinha Retrô 4ª</title>
+    <desc lang="pt">Priscilla é uma produtora que anos atrás decidiu se dedicar à sua paixão por culinária. Hoje, ela deseja transformar o que sobrou do seu antigo restaurante, um conjunto retrô com mesa e seis cadeiras(n)</desc>
+    <credits>
+      <director>Renata Sauda</director>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180923083000 -0300" stop="20180923090000 -0300" channel="GNT">
+    <title lang="pt">Boas Vindas - Nasce um Irmão: Kadu e Ana Luísa, Júlia e</title>
+    <desc lang="pt">KADU é o irmão mais velho de ANA LUÍSA e aguarda a chegada da caçula, em um parto domiciliar. Os pais de JÚLIA E CECÍLIA sempre quiseram uma família grande e se preparam para ter 3 crianças em casa(n)</desc>
+    <credits>
+      <director>Rodrigo Hinrichsen</director>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180923090000 -0300" stop="20180923093000 -0300" channel="GNT">
+    <title lang="pt">O Amor é Lindo</title>
+    <desc lang="pt">O Amor é Lindo é uma série que celebra o amor em diferentes momentos da vida. Em cada episódio, dois casais, um completando bodas e outro se casando, revelam o que os mantém unidos através dos anos(n)</desc>
+    <credits>
+      <director>Andrea Cassola</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180923093000 -0300" stop="20180923100000 -0300" channel="GNT">
+    <title lang="pt">Bela Cozinha: Tainá Müller</title>
+    <desc lang="pt">Neste episódio, a meta é comer bem e economizar. Bela prepara um macarrão ao pesto de rama de cenoura, jaca verde frita e suco de folha de limoeiro com maçã. A convidada do dia é Tainá Muller(n)</desc>
+    <credits>
+      <director>Fernanda Reyes Novaes</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S4 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180923100000 -0300" stop="20180923103000 -0300" channel="GNT">
+    <title lang="pt">Perto do Fogo: Bbq Em Casa E Doutor Breja</title>
+    <desc lang="pt">Felipe Bronze recebe André Dias, do BBQ em casa e Alexandre Fernandes, o Doutor Breja. O chef faz receitas deliciosas com lombo e costelinha de porco. Pra finalizar, uma cerveja berliner weisse(n)</desc>
+    <credits>
+      <director>Olívia Guimarães</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S3 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180923103000 -0300" stop="20180923110000 -0300" channel="GNT">
+    <title lang="pt">Marmitas &amp; Merendas: Despertar Das Marmitas</title>
+    <desc lang="pt">O uso de marmitas é uma tendência de comportamento que vem se confirmando entre as pessoas que buscam ter mais controle sobre sua alimentação(n)</desc>
+    <credits>
+      <director>Tatiana De Lamare Noronha</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180923110000 -0300" stop="20180923120000 -0300" channel="GNT">
+    <title lang="pt">Fala na Minha Cara</title>
+    <desc lang="pt">Teddy B vai receber a ajuda de dois chefs convidados para tentar salvar o Equator Caf. Os comentários amargos na internet estão destruindo a confiança do dono(n)</desc>
+    <credits>
+      <director>Jennifer Davidson</director>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180923120000 -0300" stop="20180923130000 -0300" channel="GNT">
+    <title lang="pt">Chefs na Calada da Noite: Em Mãos</title>
+    <desc lang="pt">Chefs Na Calada da Noite é um confronto culinário passado no Chelsea Market, em NY, entre renomados chefs. Em cada episódio, três chefs competem em duas rodadas e disputam o grande prêmio da noite(n)</desc>
+    <credits>
+      <director>Christina Rich</director>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180923130000 -0300" stop="20180923140000 -0300" channel="GNT">
+    <title lang="pt">Mais Cor, Por Favor 2ª Temp</title>
+    <desc lang="pt">A especialista em design, decoração e trabalhos manuais Thalita Carvalho vai usar suas habilidades para mobilizar sua rede de contatos e conseguir renovar espaços, sempre demonstrando o passo a passo das transformações(n)</desc>
+    <credits>
+      <director>Lucas Margutti</director>
     </credits>
     <date>2016</date>
     <rating system="BR">
-      <value>13+</value>
+      <value>0+</value>
     </rating>
   </programme>
-  <programme start="20180924205000 -0300" stop="20180924223000 -0300" channel="AMC">
-    <title lang="pt">Olhos Famintos</title>
-    <desc lang="pt">Casal de irmãos adolescentes a caminho de casa após mais uma temporada de aulas na faculdade é perseguido por um velho e sinistro caminhão, guiado por uma criatura maligna e sobrenatural que se alimenta de corpos humanos(n)</desc>
+  <programme start="20180923140000 -0300" stop="20180923150000 -0300" channel="GNT">
+    <title lang="pt">Cozinheiros em Ação: Jardim da Cozinha</title>
+    <desc lang="pt">Os cheiros e sabores de ervas como o coentro, o manjericão e o hortelã invadem a nossa cozinha(n)</desc>
     <credits>
-      <director>Victor Salva</director>
-      <actor>Gina Philips</actor>
-      <actor>Justin Long</actor>
-      <actor>Jonathan Breck</actor>
-      <actor>Eileen Brennan</actor>
-      <actor>Patricia Belcher</actor>
-      <actor>Brandon Smith</actor>
-      <actor>Jeffrey Williams Evans</actor>
-      <actor>William Haze</actor>
+      <director>Ricardo Pompeu</director>
     </credits>
-    <date>2001</date>
+    <date>2016</date>
+    <episode-num system="onscreen">S6 E7</episode-num>
     <rating system="BR">
-      <value>13+</value>
+      <value>0+</value>
     </rating>
   </programme>
-  <programme start="20180924223000 -0300" stop="20180924233000 -0300" channel="AMC">
-    <title lang="pt">Fear The Walking Dead</title>
-    <desc lang="pt">O grupo vai perdendo a esperança enquanto procuram uma saída. Alicia e Charlie encontram seus amigos(n)</desc>
+  <programme start="20180923150000 -0300" stop="20180923160000 -0300" channel="GNT">
+    <title lang="pt">Mais Cor, Por Favor</title>
+    <desc lang="pt">O Mais Cor Por Favor, apresentado por Thalita Carvalho, vai mostrar na 4ª temporada que um conjunto de pequenos projetos têm o poder de revolucionar um canto da casa(n)</desc>
     <credits>
-      <director>Kim Dickens</director>
-      <director>Robert Kirkman</director>
-      <actor>Kim Dickens</actor>
-      <actor>Frank Dillane</actor>
-      <actor>Colman Domingo</actor>
-      <actor>Jenna Elfman</actor>
-      <actor>Garret Dillahunt</actor>
-      <actor>Lennie James</actor>
+      <director>Lígia Feliciano</director>
     </credits>
     <date>2018</date>
-    <episode-num system="onscreen">S4 E15</episode-num>
+    <episode-num system="onscreen">S4 E4</episode-num>
     <rating system="BR">
-      <value>13+</value>
+      <value>0+</value>
     </rating>
   </programme>
-  <programme start="20180924233000 -0300" stop="20180925003000 -0300" channel="AMC">
-    <title lang="pt">Humans</title>
-    <desc lang="pt">A última invenção que toda família precisa ter é o(n)</desc>
+  <programme start="20180923160000 -0300" stop="20180923170000 -0300" channel="GNT">
+    <title lang="pt">Decora</title>
+    <desc lang="pt">A cada semana, uma pessoa expõe para o programa qual é o problema com o cômodo que deseja reformar e como esse problema impacta a vida das pessoas que moram naquela casa ou apartamento(n)</desc>
     <credits>
-      <director>Al Mackay</director>
-      <actor>Katherine Parkinson</actor>
-      <actor>Gemma Chan</actor>
-      <actor>Lucy Carless</actor>
+      <director>Pedro Gorski</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S12 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180923170000 -0300" stop="20180923180000 -0300" channel="GNT">
+    <title lang="pt">Santa Ajuda</title>
+    <desc lang="pt">Micaela volta com um novo desafio: traçar um perfil de tipos de bagunceiros. Atendendo a denúncias de amigos e parentes desesperados, Micaela vai à caça dos bagunceiros para dar aquela Santa Ajuda(n)</desc>
+    <credits>
+      <director>Alfredo Stadtherr</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S10 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180923180000 -0300" stop="20180923190000 -0300" channel="GNT">
+    <title lang="pt">Fazendo a Festa: Robôs</title>
+    <desc lang="pt">O Fazendo a Festa de hoje entra no universo cibernético para comemorar os 6 anos do Arthur com uma festa como ele sempre sonhou: cheia de robôs. O aniversariante dá várias dicas para Fernanda Rodrigues. A farra vai ser boa(n)</desc>
+    <credits>
+      <director>Gabriel Edel</director>
+      <actor>Fernanda Rodrigues</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S6 E18</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180923190000 -0300" stop="20180923200000 -0300" channel="GNT">
+    <title lang="pt">Mais Cor, Por Favor</title>
+    <desc lang="pt">O Mais Cor Por Favor, apresentado por Thalita Carvalho, vai mostrar na 4ª temporada que um conjunto de pequenos projetos têm o poder de revolucionar um canto da casa(n)</desc>
+    <credits>
+      <director>Lígia Feliciano</director>
     </credits>
     <date>2018</date>
-    <episode-num system="onscreen">S3 E2</episode-num>
+    <episode-num system="onscreen">S4 E5</episode-num>
     <rating system="BR">
-      <value>13+</value>
+      <value>0+</value>
     </rating>
   </programme>
-  <programme start="20180925003000 -0300" stop="20180925013000 -0300" channel="AMC">
-    <title lang="pt">Talking Dead - Fear Edition</title>
-    <desc lang="pt">O talking show apresentado por Yvette Nicole Brown que será apresentado em conjunto com cada episódio de(n)</desc>
+  <programme start="20180923200000 -0300" stop="20180923210000 -0300" channel="GNT">
+    <title lang="pt">Que Seja Doce: (Reality Show) - Festa Do Peão</title>
+    <desc lang="pt">As festas de peão são um pilar da cultura caipira e sempre prometem muita comilança Para laçar o troféu de hoje, nossos confeiteiros precisam provar que dominam a cozinha melhor que um peão domina seu touro(n)</desc>
     <credits>
-      <director>Yvette Nicole Brown</director>
-      <actor>Yvette Nicole Brown</actor>
+      <director>Roberto Davila</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180923210000 -0300" stop="20180923220000 -0300" channel="GNT">
+    <title lang="pt">Fazendo a Festa: Capitão Cueca</title>
+    <desc lang="pt">O Capitão Cueca vai aprontar no Fazendo a Festa de hoje. O João adora o personagem e decidiu que ele seria o tema de sua festa. Fernanda Rodrigues e a liga preparam boas surpresas para comemorar os 8 anos do João(n)</desc>
+    <credits>
+      <director>Gabriel Edel</director>
+      <actor>Fernanda Rodrigues</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S6 E19</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180923220000 -0300" stop="20180923230000 -0300" channel="GNT">
+    <title lang="pt">Lugar de Criança: Luisa (Paris)</title>
+    <desc lang="pt">A Luisa é apaixonada por Paris e está prestes a ganhar a irmã que tanto sonhou(n)</desc>
+    <credits>
+      <director>Isabella Ponce De Leon</director>
     </credits>
     <date>2018</date>
-    <episode-num system="onscreen">S4 E15</episode-num>
+    <episode-num system="onscreen">S1 E6</episode-num>
     <rating system="BR">
-      <value>13+</value>
+      <value>0+</value>
     </rating>
   </programme>
-  <programme start="20180925013000 -0300" stop="20180925031000 -0300" channel="AMC">
-    <title lang="pt">Olhos Famintos</title>
-    <desc lang="pt">Casal de irmãos adolescentes a caminho de casa após mais uma temporada de aulas na faculdade é perseguido por um velho e sinistro caminhão, guiado por uma criatura maligna e sobrenatural que se alimenta de corpos humanos(n)</desc>
+  <programme start="20180923230000 -0300" stop="20180923233000 -0300" channel="GNT">
+    <title lang="pt">Boas Vindas - Nasce um Irmão</title>
+    <desc lang="pt">A proposta desta nova temporada é trazer de volta o programa Boas Vindas, aproveitando elementos que deram certo em suas temporadas passadas(n)</desc>
     <credits>
-      <director>Victor Salva</director>
-      <actor>Gina Philips</actor>
-      <actor>Justin Long</actor>
-      <actor>Jonathan Breck</actor>
-      <actor>Eileen Brennan</actor>
-      <actor>Patricia Belcher</actor>
-      <actor>Brandon Smith</actor>
-      <actor>Jeffrey Williams Evans</actor>
-      <actor>William Haze</actor>
+      <director>Rodrigo Hinrichsen</director>
     </credits>
-    <date>2001</date>
+    <date>2018</date>
+    <episode-num system="onscreen">S11 E7</episode-num>
     <rating system="BR">
-      <value>13+</value>
+      <value>0+</value>
     </rating>
   </programme>
-  <programme start="20180925031000 -0300" stop="20180925050500 -0300" channel="AMC">
-    <title lang="pt">Outono em Nova York</title>
-    <desc lang="pt">Playboy cinqüentão e mulherengo convicto, promete nunca ter compromisso sério. Mas conhece Charlotte, seu grande amor, por quem se apaixona perdidamente(n)</desc>
+  <programme start="20180923233000 -0300" stop="20180924000000 -0300" channel="GNT">
+    <title lang="pt">O Amor é Lindo</title>
+    <desc lang="pt">O Amor é Lindo é uma série que celebra o amor em diferentes momentos da vida. Em cada episódio, dois casais, um completando bodas e outro se casando, revelam o que os mantém unidos através dos anos(n)</desc>
     <credits>
-      <director>Joan Chen</director>
-      <actor>Richard Gere</actor>
-      <actor>Winona Ryder</actor>
-      <actor>Anthony LaPaglia</actor>
-      <actor>Elaine Stritch</actor>
-      <actor>Ver Farmiga</actor>
-      <actor>Sherry Stringfield</actor>
-      <actor>Jill Hennessy</actor>
-      <actor>J. K. Simmons</actor>
-      <actor>Sam Trammell</actor>
-      <actor>Mary Beth Hurt</actor>
-      <actor>Kali Rocha</actor>
-      <actor>Steven Randazzo</actor>
-      <actor>Toby Poser</actor>
-      <actor>George Speilvogel III</actor>
-      <actor>Ranjit Chowdhry</actor>
+      <director>Andrea Cassola</director>
     </credits>
-    <date>2000</date>
+    <date>2017</date>
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924000000 -0300" stop="20180924003000 -0300" channel="GNT">
+    <title lang="pt">Bela Cozinha: Tainá Müller</title>
+    <desc lang="pt">Neste episódio, a meta é comer bem e economizar. Bela prepara um macarrão ao pesto de rama de cenoura, jaca verde frita e suco de folha de limoeiro com maçã. A convidada do dia é Tainá Muller(n)</desc>
+    <credits>
+      <director>Fernanda Reyes Novaes</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S4 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924003000 -0300" stop="20180924010000 -0300" channel="GNT">
+    <title lang="pt">Perto do Fogo: Bbq Em Casa E Doutor Breja</title>
+    <desc lang="pt">Felipe Bronze recebe André Dias, do BBQ em casa e Alexandre Fernandes, o Doutor Breja. O chef faz receitas deliciosas com lombo e costelinha de porco. Pra finalizar, uma cerveja berliner weisse(n)</desc>
+    <credits>
+      <director>Olívia Guimarães</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S3 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924010000 -0300" stop="20180924020000 -0300" channel="GNT">
+    <title lang="pt">Fala na Minha Cara</title>
+    <desc lang="pt">Teddy B vai receber a ajuda de dois chefs convidados para tentar salvar o Equator Caf. Os comentários amargos na internet estão destruindo a confiança do dono(n)</desc>
+    <credits>
+      <director>Jennifer Davidson</director>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="BR">
       <value>7+</value>
     </rating>
   </programme>
-  <programme start="20180925050500 -0300" stop="20180925060000 -0300" channel="AMC">
-    <title lang="pt">Humans</title>
-    <desc lang="pt">A última invenção que toda família precisa ter é o(n)</desc>
+  <programme start="20180924020000 -0300" stop="20180924023000 -0300" channel="GNT">
+    <title lang="pt">Moda Revelada: Barriga de Fora, Blazer Feminino e o Fedora</title>
+    <desc lang="pt">Neste episódio de Moda Revelada, vamos ver como um presidente quase aboliu o uso do Fedora, como os deuses hindus começaram uma revolução da moda e como surgiu a cultura da barriga de fora(n)</desc>
     <credits>
-      <director>Al Mackay</director>
-      <actor>Katherine Parkinson</actor>
-      <actor>Gemma Chan</actor>
-      <actor>Lucy Carless</actor>
+      <director>Jonah Bekhor</director>
     </credits>
-    <date>2018</date>
-    <episode-num system="onscreen">S3 E2</episode-num>
-    <rating system="BR">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme start="20180925060000 -0300" stop="20180925070000 -0300" channel="AMC">
-    <title lang="pt">Animal Kingdom</title>
-    <desc lang="pt">Joshua(n)</desc>
-    <credits>
-      <director>Laura Innes</director>
-      <actor>Molly Gordon</actor>
-      <actor>Daniella Alonso</actor>
-      <actor>Ellen Barkin</actor>
-      <actor>Scott Speedman</actor>
-      <actor>Shawn Hatosy</actor>
-      <actor>Ben Robson</actor>
-      <actor>Jake Weary</actor>
-      <actor>Finn Cole</actor>
-    </credits>
-    <date>2017</date>
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <rating system="BR">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme start="20180925070000 -0300" stop="20180925073000 -0300" channel="AMC">
-    <title lang="pt">Action Zone</title>
-    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E5</episode-num>
     <rating system="BR">
       <value>9+</value>
     </rating>
   </programme>
-  <programme start="20180925073000 -0300" stop="20180925080000 -0300" channel="AMC">
-    <title lang="pt">Action Zone</title>
-    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
-    <rating system="BR">
-      <value>9+</value>
-    </rating>
-  </programme>
-  <programme start="20180925080000 -0300" stop="20180925083000 -0300" channel="AMC">
-    <title lang="pt">Programação Paga</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180925083000 -0300" stop="20180925090000 -0300" channel="AMC">
-    <title lang="pt">Programação Paga</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180925090000 -0300" stop="20180925093000 -0300" channel="AMC">
-    <title lang="pt">Programação Paga</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180925093000 -0300" stop="20180925100000 -0300" channel="AMC">
-    <title lang="pt">Programação Paga</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20180925100000 -0300" stop="20180925110000 -0300" channel="AMC">
-    <title lang="pt">Animal Kingdom</title>
-    <desc lang="pt">Joshua(n)</desc>
+  <programme start="20180924023000 -0300" stop="20180924030000 -0300" channel="GNT">
+    <title lang="pt">As Melhores Lojas de Noivas: Na Linha</title>
+    <desc lang="pt">Em Chicago, duas lojas especializadas em vestidos de casamento competem diariamente por clientes e dinheiro(n)</desc>
     <credits>
-      <director>Laura Innes</director>
-      <actor>Molly Gordon</actor>
-      <actor>Daniella Alonso</actor>
-      <actor>Ellen Barkin</actor>
-      <actor>Scott Speedman</actor>
-      <actor>Shawn Hatosy</actor>
-      <actor>Ben Robson</actor>
-      <actor>Jake Weary</actor>
-      <actor>Finn Cole</actor>
+      <director>Joseph Fitzgerald</director>
     </credits>
-    <date>2017</date>
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <rating system="BR">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme start="20180925110000 -0300" stop="20180925120000 -0300" channel="AMC">
-    <title lang="pt">Animal Kingdom</title>
-    <desc lang="pt">Joshua(n)</desc>
-    <credits>
-      <director>Larry Teng</director>
-      <actor>Molly Gordon</actor>
-      <actor>Daniella Alonso</actor>
-      <actor>Ellen Barkin</actor>
-      <actor>Scott Speedman</actor>
-      <actor>Shawn Hatosy</actor>
-      <actor>Ben Robson</actor>
-      <actor>Jake Weary</actor>
-      <actor>Finn Cole</actor>
-    </credits>
-    <date>2017</date>
-    <episode-num system="onscreen">S2 E6</episode-num>
-    <rating system="BR">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme start="20180925120000 -0300" stop="20180925123000 -0300" channel="AMC">
-    <title lang="pt">Action Zone</title>
-    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
-    <rating system="BR">
-      <value>9+</value>
-    </rating>
-  </programme>
-  <programme start="20180925123000 -0300" stop="20180925143000 -0300" channel="AMC">
-    <title lang="pt">Outono em Nova York</title>
-    <desc lang="pt">Playboy cinqüentão e mulherengo convicto, promete nunca ter compromisso sério. Mas conhece Charlotte, seu grande amor, por quem se apaixona perdidamente(n)</desc>
-    <credits>
-      <director>Joan Chen</director>
-      <actor>Richard Gere</actor>
-      <actor>Winona Ryder</actor>
-      <actor>Anthony LaPaglia</actor>
-      <actor>Elaine Stritch</actor>
-      <actor>Ver Farmiga</actor>
-      <actor>Sherry Stringfield</actor>
-      <actor>Jill Hennessy</actor>
-      <actor>J. K. Simmons</actor>
-      <actor>Sam Trammell</actor>
-      <actor>Mary Beth Hurt</actor>
-      <actor>Kali Rocha</actor>
-      <actor>Steven Randazzo</actor>
-      <actor>Toby Poser</actor>
-      <actor>George Speilvogel III</actor>
-      <actor>Ranjit Chowdhry</actor>
-    </credits>
-    <date>2000</date>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E5</episode-num>
     <rating system="BR">
       <value>7+</value>
     </rating>
   </programme>
-  <programme start="20180925143000 -0300" stop="20180925162500 -0300" channel="AMC">
-    <title lang="pt">Um Amor para Recordar</title>
-    <desc lang="pt">Landon, se envolve numa brincadeira que acaba mal. Ele é forçado a colaborar com o serviço comunitário, e recorre à tímida Jamie para lhe ajudar. Os dois começam um relacionamento que resiste até as maiores diversidades(n)</desc>
+  <programme start="20180924030000 -0300" stop="20180924040000 -0300" channel="GNT">
+    <title lang="pt">Santa Ajuda</title>
+    <desc lang="pt">Micaela volta com um novo desafio: traçar um perfil de tipos de bagunceiros. Atendendo a denúncias de amigos e parentes desesperados, Micaela vai à caça dos bagunceiros para dar aquela Santa Ajuda(n)</desc>
     <credits>
-      <director>Adam Shankman</director>
-      <actor>Mandy Moore</actor>
-      <actor>Shane West</actor>
-      <actor>Daryl Hannah</actor>
-      <actor>Peter Coyote</actor>
-      <actor>Lauren German</actor>
-      <actor>Clayne Crawford</actor>
-      <actor>Paz de La Huerta</actor>
-      <actor>Matt Lutz</actor>
-      <actor>Marisa Miller</actor>
-      <actor>Paula Jones</actor>
+      <director>Alfredo Stadtherr</director>
     </credits>
-    <date>2002</date>
+    <date>2017</date>
+    <episode-num system="onscreen">S10 E20</episode-num>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20180925162500 -0300" stop="20180925165500 -0300" channel="AMC">
-    <title lang="pt">Action Zone</title>
-    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+  <programme start="20180924040000 -0300" stop="20180924050000 -0300" channel="GNT">
+    <title lang="pt">Decora</title>
+    <desc lang="pt">A cada semana, uma pessoa expõe para o programa qual é o problema com o cômodo que deseja reformar e como esse problema impacta a vida das pessoas que moram naquela casa ou apartamento(n)</desc>
+    <credits>
+      <director>Pedro Gorski</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S12 E20</episode-num>
     <rating system="BR">
-      <value>9+</value>
+      <value>0+</value>
     </rating>
   </programme>
-  <programme start="20180925165500 -0300" stop="20180925184500 -0300" channel="AMC">
-    <title lang="pt">O Amor dos Outros</title>
-    <desc lang="pt">A comédia romântica(n)</desc>
+  <programme start="20180924050000 -0300" stop="20180924060000 -0300" channel="GNT">
+    <title lang="pt">Lugar de Criança: Luisa (Paris)</title>
+    <desc lang="pt">A Luisa é apaixonada por Paris e está prestes a ganhar a irmã que tanto sonhou(n)</desc>
     <credits>
-      <director>Deo</director>
-      <actor>Vinicius Bustani</actor>
-      <actor>Nely One</actor>
+      <director>Isabella Ponce De Leon</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924060000 -0300" stop="20180924070000 -0300" channel="GNT">
+    <title lang="pt">Fazendo a Festa: Capitão Cueca</title>
+    <desc lang="pt">O Capitão Cueca vai aprontar no Fazendo a Festa de hoje. O João adora o personagem e decidiu que ele seria o tema de sua festa. Fernanda Rodrigues e a liga preparam boas surpresas para comemorar os 8 anos do João(n)</desc>
+    <credits>
+      <director>Gabriel Edel</director>
+      <actor>Fernanda Rodrigues</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S6 E19</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924070000 -0300" stop="20180924080000 -0300" channel="GNT">
+    <title lang="pt">Sabor em Jogo: Arroz Carreteiro</title>
+    <desc lang="pt">Para homenagear a mistura mais brasileira de todas, os jogadores mostram suas habilidades para entregar o melhor arroz carreteiro de suas vidas(n)</desc>
+    <credits>
+      <director>Carla Barreto de Barros</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924080000 -0300" stop="20180924090000 -0300" channel="GNT">
+    <title lang="pt">Superbonita: Personagens Sobrenaturais e Pop Art</title>
+    <desc lang="pt">Nesse episódio do Superbonita, com Karol Conka e Giovanna Ewbank, maquiadores enfrentam provas com os temas Personagens Sobrenaturais e Pop Art(n)</desc>
+    <credits>
+      <director>Fernanda Reyes Novaes</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S19 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924090000 -0300" stop="20180924093000 -0300" channel="GNT">
+    <title lang="pt">Desengaveta: Thássia Naves</title>
+    <desc lang="pt">Fepa desbrava o closet de mais de 4500 peças de Thássia Naves. Fernanda Paes Leme capricha na lábia para arrematar peças com o carimbo da influenciadora digital para lojinha do Desengaveta(n)</desc>
+    <credits>
+      <director>Gustavo Mello</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924093000 -0300" stop="20180924100000 -0300" channel="GNT">
+    <title lang="pt">Admirável Móvel Novo: Admirável Cozinha Retrô 4ª</title>
+    <desc lang="pt">Priscilla é uma produtora que anos atrás decidiu se dedicar à sua paixão por culinária. Hoje, ela deseja transformar o que sobrou do seu antigo restaurante, um conjunto retrô com mesa e seis cadeiras(n)</desc>
+    <credits>
+      <director>Renata Sauda</director>
     </credits>
     <date>2015</date>
     <rating system="BR">
-      <value>11+</value>
+      <value>0+</value>
     </rating>
   </programme>
-  <programme start="20180925184500 -0300" stop="20180925204500 -0300" channel="AMC">
-    <title lang="pt">Uma Nova Onda de Liberdade - A História do Madame Satã</title>
-    <desc lang="pt">Em atividade até hoje, o casarão conhecido como Madame Satã iniciou suas atividades em 1983, e no período dos anos 1980 foi o principal polo aglutinador de artistas de vanguarda da cidade(n)</desc>
+  <programme start="20180924100000 -0300" stop="20180924110000 -0300" channel="GNT">
+    <title lang="pt">Decora</title>
+    <desc lang="pt">A cada semana, uma pessoa expõe para o programa qual é o problema com o cômodo que deseja reformar e como esse problema impacta a vida das pessoas que moram naquela casa ou apartamento(n)</desc>
     <credits>
-      <director>Wladimyr Ratis Marques</director>
-      <actor>Angela Dippe</actor>
-      <actor>Ciro Pessoa</actor>
+      <director>Pedro Gorski</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S12 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924110000 -0300" stop="20180924120000 -0300" channel="GNT">
+    <title lang="pt">Santa Ajuda</title>
+    <desc lang="pt">Micaela volta com um novo desafio: traçar um perfil de tipos de bagunceiros. Atendendo a denúncias de amigos e parentes desesperados, Micaela vai à caça dos bagunceiros para dar aquela Santa Ajuda(n)</desc>
+    <credits>
+      <director>Alfredo Stadtherr</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S10 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924120000 -0300" stop="20180924130000 -0300" channel="GNT">
+    <title lang="pt">Lugar de Criança: Luisa (Paris)</title>
+    <desc lang="pt">A Luisa é apaixonada por Paris e está prestes a ganhar a irmã que tanto sonhou(n)</desc>
+    <credits>
+      <director>Isabella Ponce De Leon</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924130000 -0300" stop="20180924140000 -0300" channel="GNT">
+    <title lang="pt">Fazendo a Festa: Capitão Cueca</title>
+    <desc lang="pt">O Capitão Cueca vai aprontar no Fazendo a Festa de hoje. O João adora o personagem e decidiu que ele seria o tema de sua festa. Fernanda Rodrigues e a liga preparam boas surpresas para comemorar os 8 anos do João(n)</desc>
+    <credits>
+      <director>Gabriel Edel</director>
+      <actor>Fernanda Rodrigues</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S6 E19</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924140000 -0300" stop="20180924143000 -0300" channel="GNT">
+    <title lang="pt">Admirável Móvel Novo: Admirável Cozinha Retrô 4ª</title>
+    <desc lang="pt">Priscilla é uma produtora que anos atrás decidiu se dedicar à sua paixão por culinária. Hoje, ela deseja transformar o que sobrou do seu antigo restaurante, um conjunto retrô com mesa e seis cadeiras(n)</desc>
+    <credits>
+      <director>Renata Sauda</director>
     </credits>
     <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924143000 -0300" stop="20180924150000 -0300" channel="GNT">
+    <title lang="pt">Desengaveta: Thássia Naves</title>
+    <desc lang="pt">Fepa desbrava o closet de mais de 4500 peças de Thássia Naves. Fernanda Paes Leme capricha na lábia para arrematar peças com o carimbo da influenciadora digital para lojinha do Desengaveta(n)</desc>
+    <credits>
+      <director>Gustavo Mello</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924150000 -0300" stop="20180924153000 -0300" channel="GNT">
+    <title lang="pt">Perto do Fogo: Bbq Em Casa E Doutor Breja</title>
+    <desc lang="pt">Felipe Bronze recebe André Dias, do BBQ em casa e Alexandre Fernandes, o Doutor Breja. O chef faz receitas deliciosas com lombo e costelinha de porco. Pra finalizar, uma cerveja berliner weisse(n)</desc>
+    <credits>
+      <director>Olívia Guimarães</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S3 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924153000 -0300" stop="20180924160000 -0300" channel="GNT">
+    <title lang="pt">Bela Cozinha: Tainá Müller</title>
+    <desc lang="pt">Neste episódio, a meta é comer bem e economizar. Bela prepara um macarrão ao pesto de rama de cenoura, jaca verde frita e suco de folha de limoeiro com maçã. A convidada do dia é Tainá Muller(n)</desc>
+    <credits>
+      <director>Fernanda Reyes Novaes</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S4 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924160000 -0300" stop="20180924170000 -0300" channel="GNT">
+    <title lang="pt">Sabor em Jogo: Arroz Carreteiro</title>
+    <desc lang="pt">Para homenagear a mistura mais brasileira de todas, os jogadores mostram suas habilidades para entregar o melhor arroz carreteiro de suas vidas(n)</desc>
+    <credits>
+      <director>Carla Barreto de Barros</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924170000 -0300" stop="20180924173000 -0300" channel="GNT">
+    <title lang="pt">Cozinha Prática com Rita Lobo: Risoto De Funghi Na Panela De</title>
+    <desc lang="pt">Rita Lobo mostra que é possível preparar um jantar para amigos no meio da semana. No cardápio, um delicioso risoto, só que feito na panela de pressão. E você pode cozinhar com ela, em tempo real(n)</desc>
+    <credits>
+      <director>Sheila Kaomura</director>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924173000 -0300" stop="20180924180000 -0300" channel="GNT">
+    <title lang="pt">Tempero de Família: Lamonnyel Vieira</title>
+    <desc lang="pt">Rodrigo constrói um espeto vertical. Com Lamonnyel Vieira, que largou a vida de consultor para se dedicar ao mundo das carnes, faz um leitão à pururuca, farofa de ovo queimadinha e tomates confitados(n)</desc>
+    <credits>
+      <director>Gigi Soares</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S10 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924180000 -0300" stop="20180924183000 -0300" channel="GNT">
+    <title lang="pt">Marmitas &amp; Merendas: Despertar Das Marmitas</title>
+    <desc lang="pt">O uso de marmitas é uma tendência de comportamento que vem se confirmando entre as pessoas que buscam ter mais controle sobre sua alimentação(n)</desc>
+    <credits>
+      <director>Tatiana De Lamare Noronha</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924183000 -0300" stop="20180924193000 -0300" channel="GNT">
+    <title lang="pt">Que Marravilha Aula de Cozinha</title>
+    <desc lang="pt">O chef Claude Troisgros vai abrir sua cozinha para 10 celebridades que não tem ideia de como ferver um ovo e transformá-las em cozinheiros de respeito(n)</desc>
+    <credits>
+      <director>Roberto D'Ávila</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S21 E3</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924193000 -0300" stop="20180924203000 -0300" channel="GNT">
+    <title lang="pt">Lugar de Criança: Luisa (Paris)</title>
+    <desc lang="pt">A Luisa é apaixonada por Paris e está prestes a ganhar a irmã que tanto sonhou(n)</desc>
+    <credits>
+      <director>Isabella Ponce De Leon</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924203000 -0300" stop="20180924213000 -0300" channel="GNT">
+    <title lang="pt">Decora</title>
+    <desc lang="pt">A cada semana, uma pessoa expõe para o programa qual é o problema com o cômodo que deseja reformar e como esse problema impacta a vida das pessoas que moram naquela casa ou apartamento(n)</desc>
+    <credits>
+      <director>Pedro Gorski</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S12 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924213000 -0300" stop="20180924223000 -0300" channel="GNT">
+    <title lang="pt">Santa Ajuda</title>
+    <desc lang="pt">Micaela volta com um novo desafio: traçar um perfil de tipos de bagunceiros. Atendendo a denúncias de amigos e parentes desesperados, Micaela vai à caça dos bagunceiros para dar aquela Santa Ajuda(n)</desc>
+    <credits>
+      <director>Alfredo Stadtherr</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S10 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924223000 -0300" stop="20180924233000 -0300" channel="GNT">
+    <title lang="pt">Superbonita: Personagens Sobrenaturais e Pop Art</title>
+    <desc lang="pt">Nesse episódio do Superbonita, com Karol Conka e Giovanna Ewbank, maquiadores enfrentam provas com os temas Personagens Sobrenaturais e Pop Art(n)</desc>
+    <credits>
+      <director>Fernanda Reyes Novaes</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S19 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180924233000 -0300" stop="20180925000000 -0300" channel="GNT">
+    <title lang="pt">Quebrando o Tabú: Armas</title>
+    <desc lang="pt">Em um momento em que a taxa de homicídios só cresce e ao mesmo tempo leis de controle de armas são enfraquecidas, fica a pergunta: ter uma arma aumenta a sua segurança(n)</desc>
+    <credits>
+      <director>Fernando Grostein Andrade</director>
+    </credits>
+    <date>2011</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
     <rating system="BR">
       <value>13+</value>
     </rating>
   </programme>
-  <programme start="20180925204500 -0300" stop="20180925223000 -0300" channel="AMC">
-    <title lang="pt">Hardball - O Jogo da Vida</title>
-    <desc lang="pt">Conor O'Neill está endividado. Sem opção, aceita treinar o time de beisebol de meninos carentes e aos poucos se revela um grande técnico(n)</desc>
+  <programme start="20180925000000 -0300" stop="20180925003000 -0300" channel="GNT">
+    <title lang="pt">Bela Cozinha: Tainá Müller</title>
+    <desc lang="pt">Neste episódio, a meta é comer bem e economizar. Bela prepara um macarrão ao pesto de rama de cenoura, jaca verde frita e suco de folha de limoeiro com maçã. A convidada do dia é Tainá Muller(n)</desc>
     <credits>
-      <director>Brian Robbins</director>
-      <actor>Keanu Reeves</actor>
-      <actor>Diane Lane</actor>
-      <actor>John Hawkes</actor>
-      <actor>D.B. Sweeney</actor>
-      <actor>Bryan Hearne</actor>
-      <actor>Julian Griffith</actor>
-      <actor>A. Delon Ellis Jr</actor>
-      <actor>Kristopher Lofton</actor>
-      <actor>Michael Perkins</actor>
-      <actor>Jacqueline Williams</actor>
+      <director>Fernanda Reyes Novaes</director>
     </credits>
-    <date>2001</date>
+    <date>2017</date>
+    <episode-num system="onscreen">S4 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180925003000 -0300" stop="20180925010000 -0300" channel="GNT">
+    <title lang="pt">Perto do Fogo: Bbq Em Casa E Doutor Breja</title>
+    <desc lang="pt">Felipe Bronze recebe André Dias, do BBQ em casa e Alexandre Fernandes, o Doutor Breja. O chef faz receitas deliciosas com lombo e costelinha de porco. Pra finalizar, uma cerveja berliner weisse(n)</desc>
+    <credits>
+      <director>Olívia Guimarães</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S3 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180925010000 -0300" stop="20180925020000 -0300" channel="GNT">
+    <title lang="pt">Fala na Minha Cara</title>
+    <desc lang="pt">Teddy B vai receber a ajuda de dois chefs convidados para tentar salvar o Equator Caf. Os comentários amargos na internet estão destruindo a confiança do dono(n)</desc>
+    <credits>
+      <director>Jennifer Davidson</director>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180925020000 -0300" stop="20180925023000 -0300" channel="GNT">
+    <title lang="pt">Moda Revelada: Barriga de Fora, Blazer Feminino e o Fedora</title>
+    <desc lang="pt">Neste episódio de Moda Revelada, vamos ver como um presidente quase aboliu o uso do Fedora, como os deuses hindus começaram uma revolução da moda e como surgiu a cultura da barriga de fora(n)</desc>
+    <credits>
+      <director>Jonah Bekhor</director>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180925023000 -0300" stop="20180925030000 -0300" channel="GNT">
+    <title lang="pt">As Melhores Lojas de Noivas: Na Linha</title>
+    <desc lang="pt">Em Chicago, duas lojas especializadas em vestidos de casamento competem diariamente por clientes e dinheiro(n)</desc>
+    <credits>
+      <director>Joseph Fitzgerald</director>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180925030000 -0300" stop="20180925040000 -0300" channel="GNT">
+    <title lang="pt">Santa Ajuda</title>
+    <desc lang="pt">Micaela volta com um novo desafio: traçar um perfil de tipos de bagunceiros. Atendendo a denúncias de amigos e parentes desesperados, Micaela vai à caça dos bagunceiros para dar aquela Santa Ajuda(n)</desc>
+    <credits>
+      <director>Alfredo Stadtherr</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S10 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180925040000 -0300" stop="20180925050000 -0300" channel="GNT">
+    <title lang="pt">Decora</title>
+    <desc lang="pt">A cada semana, uma pessoa expõe para o programa qual é o problema com o cômodo que deseja reformar e como esse problema impacta a vida das pessoas que moram naquela casa ou apartamento(n)</desc>
+    <credits>
+      <director>Pedro Gorski</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S12 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180925050000 -0300" stop="20180925060000 -0300" channel="GNT">
+    <title lang="pt">Lugar de Criança: Luisa (Paris)</title>
+    <desc lang="pt">A Luisa é apaixonada por Paris e está prestes a ganhar a irmã que tanto sonhou(n)</desc>
+    <credits>
+      <director>Isabella Ponce De Leon</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180925060000 -0300" stop="20180925070000 -0300" channel="GNT">
+    <title lang="pt">Fazendo a Festa: Capitão Cueca</title>
+    <desc lang="pt">O Capitão Cueca vai aprontar no Fazendo a Festa de hoje. O João adora o personagem e decidiu que ele seria o tema de sua festa. Fernanda Rodrigues e a liga preparam boas surpresas para comemorar os 8 anos do João(n)</desc>
+    <credits>
+      <director>Gabriel Edel</director>
+      <actor>Fernanda Rodrigues</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S6 E19</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180925070000 -0300" stop="20180925080000 -0300" channel="GNT">
+    <title lang="pt">Sabor em Jogo: Arroz Carreteiro</title>
+    <desc lang="pt">Para homenagear a mistura mais brasileira de todas, os jogadores mostram suas habilidades para entregar o melhor arroz carreteiro de suas vidas(n)</desc>
+    <credits>
+      <director>Carla Barreto de Barros</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180925080000 -0300" stop="20180925090000 -0300" channel="GNT">
+    <title lang="pt">Superbonita: Personagens Sobrenaturais e Pop Art</title>
+    <desc lang="pt">Nesse episódio do Superbonita, com Karol Conka e Giovanna Ewbank, maquiadores enfrentam provas com os temas Personagens Sobrenaturais e Pop Art(n)</desc>
+    <credits>
+      <director>Fernanda Reyes Novaes</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S19 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180925090000 -0300" stop="20180925093000 -0300" channel="GNT">
+    <title lang="pt">Desengaveta: Thássia Naves</title>
+    <desc lang="pt">Fepa desbrava o closet de mais de 4500 peças de Thássia Naves. Fernanda Paes Leme capricha na lábia para arrematar peças com o carimbo da influenciadora digital para lojinha do Desengaveta(n)</desc>
+    <credits>
+      <director>Gustavo Mello</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180925093000 -0300" stop="20180925100000 -0300" channel="GNT">
+    <title lang="pt">Admirável Móvel Novo: Admirável Cozinha Retrô 4ª</title>
+    <desc lang="pt">Priscilla é uma produtora que anos atrás decidiu se dedicar à sua paixão por culinária. Hoje, ela deseja transformar o que sobrou do seu antigo restaurante, um conjunto retrô com mesa e seis cadeiras(n)</desc>
+    <credits>
+      <director>Renata Sauda</director>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180925100000 -0300" stop="20180925110000 -0300" channel="GNT">
+    <title lang="pt">Decora</title>
+    <desc lang="pt">A cada semana, uma pessoa expõe para o programa qual é o problema com o cômodo que deseja reformar e como esse problema impacta a vida das pessoas que moram naquela casa ou apartamento(n)</desc>
+    <credits>
+      <director>Pedro Gorski</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S12 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180925110000 -0300" stop="20180925120000 -0300" channel="GNT">
+    <title lang="pt">Santa Ajuda</title>
+    <desc lang="pt">Micaela volta com um novo desafio: traçar um perfil de tipos de bagunceiros. Atendendo a denúncias de amigos e parentes desesperados, Micaela vai à caça dos bagunceiros para dar aquela Santa Ajuda(n)</desc>
+    <credits>
+      <director>Alfredo Stadtherr</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S10 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180925120000 -0300" stop="20180925130000 -0300" channel="GNT">
+    <title lang="pt">Lugar de Criança: Luisa (Paris)</title>
+    <desc lang="pt">A Luisa é apaixonada por Paris e está prestes a ganhar a irmã que tanto sonhou(n)</desc>
+    <credits>
+      <director>Isabella Ponce De Leon</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180925130000 -0300" stop="20180925140000 -0300" channel="GNT">
+    <title lang="pt">Fazendo a Festa: Capitão Cueca</title>
+    <desc lang="pt">O Capitão Cueca vai aprontar no Fazendo a Festa de hoje. O João adora o personagem e decidiu que ele seria o tema de sua festa. Fernanda Rodrigues e a liga preparam boas surpresas para comemorar os 8 anos do João(n)</desc>
+    <credits>
+      <director>Gabriel Edel</director>
+      <actor>Fernanda Rodrigues</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S6 E19</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180925140000 -0300" stop="20180925143000 -0300" channel="GNT">
+    <title lang="pt">Admirável Móvel Novo: Admirável Cozinha Retrô 4ª</title>
+    <desc lang="pt">Priscilla é uma produtora que anos atrás decidiu se dedicar à sua paixão por culinária. Hoje, ela deseja transformar o que sobrou do seu antigo restaurante, um conjunto retrô com mesa e seis cadeiras(n)</desc>
+    <credits>
+      <director>Renata Sauda</director>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180925143000 -0300" stop="20180925150000 -0300" channel="GNT">
+    <title lang="pt">Desengaveta: Thássia Naves</title>
+    <desc lang="pt">Fepa desbrava o closet de mais de 4500 peças de Thássia Naves. Fernanda Paes Leme capricha na lábia para arrematar peças com o carimbo da influenciadora digital para lojinha do Desengaveta(n)</desc>
+    <credits>
+      <director>Gustavo Mello</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180925150000 -0300" stop="20180925153000 -0300" channel="GNT">
+    <title lang="pt">Perto do Fogo: Bbq Em Casa E Doutor Breja</title>
+    <desc lang="pt">Felipe Bronze recebe André Dias, do BBQ em casa e Alexandre Fernandes, o Doutor Breja. O chef faz receitas deliciosas com lombo e costelinha de porco. Pra finalizar, uma cerveja berliner weisse(n)</desc>
+    <credits>
+      <director>Olívia Guimarães</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S3 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180925153000 -0300" stop="20180925160000 -0300" channel="GNT">
+    <title lang="pt">Bela Cozinha: Tainá Müller</title>
+    <desc lang="pt">Neste episódio, a meta é comer bem e economizar. Bela prepara um macarrão ao pesto de rama de cenoura, jaca verde frita e suco de folha de limoeiro com maçã. A convidada do dia é Tainá Muller(n)</desc>
+    <credits>
+      <director>Fernanda Reyes Novaes</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S4 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180925160000 -0300" stop="20180925170000 -0300" channel="GNT">
+    <title lang="pt">Sabor em Jogo: Arroz Carreteiro</title>
+    <desc lang="pt">Para homenagear a mistura mais brasileira de todas, os jogadores mostram suas habilidades para entregar o melhor arroz carreteiro de suas vidas(n)</desc>
+    <credits>
+      <director>Carla Barreto de Barros</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180925170000 -0300" stop="20180925173000 -0300" channel="GNT">
+    <title lang="pt">Cozinha Prática com Rita Lobo: Risoto De Funghi Na Panela De</title>
+    <desc lang="pt">Rita Lobo mostra que é possível preparar um jantar para amigos no meio da semana. No cardápio, um delicioso risoto, só que feito na panela de pressão. E você pode cozinhar com ela, em tempo real(n)</desc>
+    <credits>
+      <director>Sheila Kaomura</director>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180925173000 -0300" stop="20180925180000 -0300" channel="GNT">
+    <title lang="pt">Tempero de Família: Lamonnyel Vieira</title>
+    <desc lang="pt">Rodrigo constrói um espeto vertical. Com Lamonnyel Vieira, que largou a vida de consultor para se dedicar ao mundo das carnes, faz um leitão à pururuca, farofa de ovo queimadinha e tomates confitados(n)</desc>
+    <credits>
+      <director>Gigi Soares</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S10 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180925180000 -0300" stop="20180925183000 -0300" channel="GNT">
+    <title lang="pt">Marmitas &amp; Merendas: Despertar Das Marmitas</title>
+    <desc lang="pt">O uso de marmitas é uma tendência de comportamento que vem se confirmando entre as pessoas que buscam ter mais controle sobre sua alimentação(n)</desc>
+    <credits>
+      <director>Tatiana De Lamare Noronha</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180925183000 -0300" stop="20180925193000 -0300" channel="GNT">
+    <title lang="pt">Que Marravilha Aula de Cozinha</title>
+    <desc lang="pt">O chef Claude Troisgros vai abrir sua cozinha para 10 celebridades que não tem ideia de como ferver um ovo e transformá-las em cozinheiros de respeito(n)</desc>
+    <credits>
+      <director>Roberto D'Ávila</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S21 E3</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180925193000 -0300" stop="20180925203000 -0300" channel="GNT">
+    <title lang="pt">Lugar de Criança: Luisa (Paris)</title>
+    <desc lang="pt">A Luisa é apaixonada por Paris e está prestes a ganhar a irmã que tanto sonhou(n)</desc>
+    <credits>
+      <director>Isabella Ponce De Leon</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180925203000 -0300" stop="20180925213000 -0300" channel="GNT">
+    <title lang="pt">Decora</title>
+    <desc lang="pt">A cada semana, uma pessoa expõe para o programa qual é o problema com o cômodo que deseja reformar e como esse problema impacta a vida das pessoas que moram naquela casa ou apartamento(n)</desc>
+    <credits>
+      <director>Pedro Gorski</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S12 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180925213000 -0300" stop="20180925223000 -0300" channel="GNT">
+    <title lang="pt">Santa Ajuda</title>
+    <desc lang="pt">Micaela volta com um novo desafio: traçar um perfil de tipos de bagunceiros. Atendendo a denúncias de amigos e parentes desesperados, Micaela vai à caça dos bagunceiros para dar aquela Santa Ajuda(n)</desc>
+    <credits>
+      <director>Alfredo Stadtherr</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S10 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180925223000 -0300" stop="20180925233000 -0300" channel="GNT">
+    <title lang="pt">Superbonita: Personagens Sobrenaturais e Pop Art</title>
+    <desc lang="pt">Nesse episódio do Superbonita, com Karol Conka e Giovanna Ewbank, maquiadores enfrentam provas com os temas Personagens Sobrenaturais e Pop Art(n)</desc>
+    <credits>
+      <director>Fernanda Reyes Novaes</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S19 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180925233000 -0300" stop="20180926003000 -0300" channel="GNT">
+    <title lang="pt">Quebrando o Tabú: Armas</title>
+    <desc lang="pt">Em um momento em que a taxa de homicídios só cresce e ao mesmo tempo leis de controle de armas são enfraquecidas, fica a pergunta: ter uma arma aumenta a sua segurança(n)</desc>
+    <credits>
+      <director>Fernando Grostein Andrade</director>
+    </credits>
+    <date>2011</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180926003000 -0300" stop="20180926013000 -0300" channel="GNT">
+    <title lang="pt">Qual Seu Fetiche</title>
+    <credits>
+      <director>Philippa Perry</director>
+    </credits>
+    <date>2016</date>
     <rating system="BR">
       <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180926013000 -0300" stop="20180926020000 -0300" channel="GNT">
+    <title lang="pt">Desengaveta: Thássia Naves</title>
+    <desc lang="pt">Fepa desbrava o closet de mais de 4500 peças de Thássia Naves. Fernanda Paes Leme capricha na lábia para arrematar peças com o carimbo da influenciadora digital para lojinha do Desengaveta(n)</desc>
+    <credits>
+      <director>Gustavo Mello</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180926020000 -0300" stop="20180926023000 -0300" channel="GNT">
+    <title lang="pt">Bela Cozinha: Tainá Müller</title>
+    <desc lang="pt">Neste episódio, a meta é comer bem e economizar. Bela prepara um macarrão ao pesto de rama de cenoura, jaca verde frita e suco de folha de limoeiro com maçã. A convidada do dia é Tainá Muller(n)</desc>
+    <credits>
+      <director>Fernanda Reyes Novaes</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S4 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180926023000 -0300" stop="20180926030000 -0300" channel="GNT">
+    <title lang="pt">Perto do Fogo: Bbq Em Casa E Doutor Breja</title>
+    <desc lang="pt">Felipe Bronze recebe André Dias, do BBQ em casa e Alexandre Fernandes, o Doutor Breja. O chef faz receitas deliciosas com lombo e costelinha de porco. Pra finalizar, uma cerveja berliner weisse(n)</desc>
+    <credits>
+      <director>Olívia Guimarães</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S3 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180926030000 -0300" stop="20180926033000 -0300" channel="GNT">
+    <title lang="pt">Tempero de Família: Lamonnyel Vieira</title>
+    <desc lang="pt">Rodrigo constrói um espeto vertical. Com Lamonnyel Vieira, que largou a vida de consultor para se dedicar ao mundo das carnes, faz um leitão à pururuca, farofa de ovo queimadinha e tomates confitados(n)</desc>
+    <credits>
+      <director>Gigi Soares</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S10 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180926033000 -0300" stop="20180926040000 -0300" channel="GNT">
+    <title lang="pt">Cozinha Prática com Rita Lobo: Risoto De Funghi Na Panela De</title>
+    <desc lang="pt">Rita Lobo mostra que é possível preparar um jantar para amigos no meio da semana. No cardápio, um delicioso risoto, só que feito na panela de pressão. E você pode cozinhar com ela, em tempo real(n)</desc>
+    <credits>
+      <director>Sheila Kaomura</director>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180926040000 -0300" stop="20180926043000 -0300" channel="GNT">
+    <title lang="pt">Marmitas &amp; Merendas: Despertar Das Marmitas</title>
+    <desc lang="pt">O uso de marmitas é uma tendência de comportamento que vem se confirmando entre as pessoas que buscam ter mais controle sobre sua alimentação(n)</desc>
+    <credits>
+      <director>Tatiana De Lamare Noronha</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180926043000 -0300" stop="20180926050000 -0300" channel="GNT">
+    <title lang="pt">O Amor é Lindo</title>
+    <desc lang="pt">O Amor é Lindo é uma série que celebra o amor em diferentes momentos da vida. Em cada episódio, dois casais, um completando bodas e outro se casando, revelam o que os mantém unidos através dos anos(n)</desc>
+    <credits>
+      <director>Andrea Cassola</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180926050000 -0300" stop="20180926060000 -0300" channel="GNT">
+    <title lang="pt">Fazendo a Festa: Capitão Cueca</title>
+    <desc lang="pt">O Capitão Cueca vai aprontar no Fazendo a Festa de hoje. O João adora o personagem e decidiu que ele seria o tema de sua festa. Fernanda Rodrigues e a liga preparam boas surpresas para comemorar os 8 anos do João(n)</desc>
+    <credits>
+      <director>Gabriel Edel</director>
+      <actor>Fernanda Rodrigues</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S6 E19</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180926060000 -0300" stop="20180926070000 -0300" channel="GNT">
+    <title lang="pt">Cozinheiros em Ação: Jardim da Cozinha</title>
+    <desc lang="pt">Os cheiros e sabores de ervas como o coentro, o manjericão e o hortelã invadem a nossa cozinha(n)</desc>
+    <credits>
+      <director>Ricardo Pompeu</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S6 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180926070000 -0300" stop="20180926080000 -0300" channel="GNT">
+    <title lang="pt">Que Marravilha Aula de Cozinha</title>
+    <desc lang="pt">O chef Claude Troisgros vai abrir sua cozinha para 10 celebridades que não tem ideia de como ferver um ovo e transformá-las em cozinheiros de respeito(n)</desc>
+    <credits>
+      <director>Roberto D'Ávila</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S21 E3</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180926080000 -0300" stop="20180926090000 -0300" channel="GNT">
+    <title lang="pt">Fazendo a Festa: Capitão Cueca</title>
+    <desc lang="pt">O Capitão Cueca vai aprontar no Fazendo a Festa de hoje. O João adora o personagem e decidiu que ele seria o tema de sua festa. Fernanda Rodrigues e a liga preparam boas surpresas para comemorar os 8 anos do João(n)</desc>
+    <credits>
+      <director>Gabriel Edel</director>
+      <actor>Fernanda Rodrigues</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S6 E19</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180926090000 -0300" stop="20180926100000 -0300" channel="GNT">
+    <title lang="pt">Sabor em Jogo: Arroz Carreteiro</title>
+    <desc lang="pt">Para homenagear a mistura mais brasileira de todas, os jogadores mostram suas habilidades para entregar o melhor arroz carreteiro de suas vidas(n)</desc>
+    <credits>
+      <director>Carla Barreto de Barros</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180926100000 -0300" stop="20180926103000 -0300" channel="GNT">
+    <title lang="pt">Cozinha Prática com Rita Lobo: Risoto De Funghi Na Panela De</title>
+    <desc lang="pt">Rita Lobo mostra que é possível preparar um jantar para amigos no meio da semana. No cardápio, um delicioso risoto, só que feito na panela de pressão. E você pode cozinhar com ela, em tempo real(n)</desc>
+    <credits>
+      <director>Sheila Kaomura</director>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180926103000 -0300" stop="20180926110000 -0300" channel="GNT">
+    <title lang="pt">Tempero de Família: Lamonnyel Vieira</title>
+    <desc lang="pt">Rodrigo constrói um espeto vertical. Com Lamonnyel Vieira, que largou a vida de consultor para se dedicar ao mundo das carnes, faz um leitão à pururuca, farofa de ovo queimadinha e tomates confitados(n)</desc>
+    <credits>
+      <director>Gigi Soares</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S10 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180926110000 -0300" stop="20180926113000 -0300" channel="GNT">
+    <title lang="pt">Perto do Fogo: Bbq Em Casa E Doutor Breja</title>
+    <desc lang="pt">Felipe Bronze recebe André Dias, do BBQ em casa e Alexandre Fernandes, o Doutor Breja. O chef faz receitas deliciosas com lombo e costelinha de porco. Pra finalizar, uma cerveja berliner weisse(n)</desc>
+    <credits>
+      <director>Olívia Guimarães</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S3 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180926113000 -0300" stop="20180926123000 -0300" channel="GNT">
+    <title lang="pt">Que Marravilha Aula de Cozinha</title>
+    <desc lang="pt">O chef Claude Troisgros vai abrir sua cozinha para 10 celebridades que não tem ideia de como ferver um ovo e transformá-las em cozinheiros de respeito(n)</desc>
+    <credits>
+      <director>Roberto D'Ávila</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S21 E3</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180926123000 -0300" stop="20180926130000 -0300" channel="GNT">
+    <title lang="pt">Bela Cozinha: Tainá Müller</title>
+    <desc lang="pt">Neste episódio, a meta é comer bem e economizar. Bela prepara um macarrão ao pesto de rama de cenoura, jaca verde frita e suco de folha de limoeiro com maçã. A convidada do dia é Tainá Muller(n)</desc>
+    <credits>
+      <director>Fernanda Reyes Novaes</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S4 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180926130000 -0300" stop="20180926140000 -0300" channel="GNT">
+    <title lang="pt">Superbonita: Personagens Sobrenaturais e Pop Art</title>
+    <desc lang="pt">Nesse episódio do Superbonita, com Karol Conka e Giovanna Ewbank, maquiadores enfrentam provas com os temas Personagens Sobrenaturais e Pop Art(n)</desc>
+    <credits>
+      <director>Fernanda Reyes Novaes</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S19 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180926140000 -0300" stop="20180926150000 -0300" channel="GNT">
+    <title lang="pt">Santa Ajuda</title>
+    <desc lang="pt">Micaela volta com um novo desafio: traçar um perfil de tipos de bagunceiros. Atendendo a denúncias de amigos e parentes desesperados, Micaela vai à caça dos bagunceiros para dar aquela Santa Ajuda(n)</desc>
+    <credits>
+      <director>Alfredo Stadtherr</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S10 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180926150000 -0300" stop="20180926160000 -0300" channel="GNT">
+    <title lang="pt">Decora</title>
+    <desc lang="pt">A cada semana, uma pessoa expõe para o programa qual é o problema com o cômodo que deseja reformar e como esse problema impacta a vida das pessoas que moram naquela casa ou apartamento(n)</desc>
+    <credits>
+      <director>Pedro Gorski</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S12 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180926160000 -0300" stop="20180926163000 -0300" channel="GNT">
+    <title lang="pt">Cozinha Prática com Rita Lobo: Risoto De Funghi Na Panela De</title>
+    <desc lang="pt">Rita Lobo mostra que é possível preparar um jantar para amigos no meio da semana. No cardápio, um delicioso risoto, só que feito na panela de pressão. E você pode cozinhar com ela, em tempo real(n)</desc>
+    <credits>
+      <director>Sheila Kaomura</director>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180926163000 -0300" stop="20180926170000 -0300" channel="GNT">
+    <title lang="pt">Marmitas &amp; Merendas: Despertar Das Marmitas</title>
+    <desc lang="pt">O uso de marmitas é uma tendência de comportamento que vem se confirmando entre as pessoas que buscam ter mais controle sobre sua alimentação(n)</desc>
+    <credits>
+      <director>Tatiana De Lamare Noronha</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180926170000 -0300" stop="20180926180000 -0300" channel="GNT">
+    <title lang="pt">Que Marravilha Aula de Cozinha</title>
+    <desc lang="pt">O chef Claude Troisgros vai abrir sua cozinha para 10 celebridades que não tem ideia de como ferver um ovo e transformá-las em cozinheiros de respeito(n)</desc>
+    <credits>
+      <director>Roberto D'Ávila</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S21 E3</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180926180000 -0300" stop="20180926190000 -0300" channel="GNT">
+    <title lang="pt">Sabor em Jogo: Arroz Carreteiro</title>
+    <desc lang="pt">Para homenagear a mistura mais brasileira de todas, os jogadores mostram suas habilidades para entregar o melhor arroz carreteiro de suas vidas(n)</desc>
+    <credits>
+      <director>Carla Barreto de Barros</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180926190000 -0300" stop="20180926193000 -0300" channel="GNT">
+    <title lang="pt">Perto do Fogo: Bbq Em Casa E Doutor Breja</title>
+    <desc lang="pt">Felipe Bronze recebe André Dias, do BBQ em casa e Alexandre Fernandes, o Doutor Breja. O chef faz receitas deliciosas com lombo e costelinha de porco. Pra finalizar, uma cerveja berliner weisse(n)</desc>
+    <credits>
+      <director>Olívia Guimarães</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S3 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180926193000 -0300" stop="20180926200000 -0300" channel="GNT">
+    <title lang="pt">Cozinha Prática com Rita Lobo: Risoto De Funghi Na Panela De</title>
+    <desc lang="pt">Rita Lobo mostra que é possível preparar um jantar para amigos no meio da semana. No cardápio, um delicioso risoto, só que feito na panela de pressão. E você pode cozinhar com ela, em tempo real(n)</desc>
+    <credits>
+      <director>Sheila Kaomura</director>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180926200000 -0300" stop="20180926203000 -0300" channel="GNT">
+    <title lang="pt">Tapas e Beijos</title>
+    <desc lang="pt">Vendedoras da Djalma Noivas, Sueli (Andréa Beltrão) e Fátima (Fernanda Torres) depois de encontrarem seus pares, encaram situações inusitadas da vida a dois(n)</desc>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180926203000 -0300" stop="20180926210000 -0300" channel="GNT">
+    <title lang="pt">Tapas e Beijos</title>
+    <desc lang="pt">Vendedoras da Djalma Noivas, Sueli (Andréa Beltrão) e Fátima (Fernanda Torres) depois de encontrarem seus pares, encaram situações inusitadas da vida a dois(n)</desc>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180926210000 -0300" stop="20180926213000 -0300" channel="GNT">
+    <title lang="pt">Tapas e Beijos</title>
+    <desc lang="pt">Vendedoras da Djalma Noivas, Sueli (Andréa Beltrão) e Fátima (Fernanda Torres) depois de encontrarem seus pares, encaram situações inusitadas da vida a dois(n)</desc>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180926213000 -0300" stop="20180926220000 -0300" channel="GNT">
+    <title lang="pt">Tapas e Beijos</title>
+    <desc lang="pt">Vendedoras da Djalma Noivas, Sueli (Andréa Beltrão) e Fátima (Fernanda Torres) depois de encontrarem seus pares, encaram situações inusitadas da vida a dois(n)</desc>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180926220000 -0300" stop="20180926230000 -0300" channel="GNT">
+    <title lang="pt">Tapas e Beijos</title>
+    <desc lang="pt">Vendedoras da Djalma Noivas, Sueli (Andréa Beltrão) e Fátima (Fernanda Torres) depois de encontrarem seus pares, encaram situações inusitadas da vida a dois(n)</desc>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180926230000 -0300" stop="20180926233000 -0300" channel="GNT">
+    <title lang="pt">O Amor é Lindo</title>
+    <desc lang="pt">O Amor é Lindo é uma série que celebra o amor em diferentes momentos da vida. Em cada episódio, dois casais, um completando bodas e outro se casando, revelam o que os mantém unidos através dos anos(n)</desc>
+    <credits>
+      <director>Andrea Cassola</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180926233000 -0300" stop="20180927003000 -0300" channel="GNT">
+    <title lang="pt">Chegadas e Partidas: Oceano de Dores e Amores</title>
+    <desc lang="pt">Filha volta para Portugal depois de dez anos sem ver o pai. Casal recém casado se despede no aeroporto. Brasileiro espera pelo namorado francês. Mãe espera a filha que mora no Japão há dez anos(n)</desc>
+    <credits>
+      <director>Isabella Ponce</director>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S8 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
     </rating>
   </programme>
 </tv>
