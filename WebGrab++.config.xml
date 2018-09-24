@@ -1,0 +1,117 @@
+﻿<?xml version="1.0"?>
+<settings>
+   
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
+   
+  <filename>guide.xml</filename>
+  <mode></mode>
+  <postprocess grab="y" run="n">mdb</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
+  <logging>on</logging>
+  <retry time-out="5">4</retry>
+  <timespan>6</timespan>
+  <update>f</update>
+ 
+  <!--
+            Replace the next dummy channel entry with the channels you want.
+			You can look into the installed siteini.pack folder on your computer
+  
+            For the latest version,
+            see http://webgrabplus.com/epg-channels for the available sites/channels
+			
+			<channel site="dummy" site_id="xx" update="i" xmltv_id="Example">Example</channel>
+  -->
+  <!-- ##### Canais Abertos ##### -->
+  <channel update="i" site="clarotv.com.br" site_id="235" xmltv_id="Rede Brasil">Rede Brasil</channel>
+  <channel update="i" site="clarotv.com.br" site_id="102" xmltv_id="Canção Nova">Cançao Nova</channel>
+  <channel update="i" site="clarotv.com.br" site_id="240" xmltv_id="Rede TV">Rede TV</channel>
+  <channel update="i" site="clarotv.com.br" site_id="80" xmltv_id="RECORD">RECORD</channel>
+  <channel update="i" site="clarotv.com.br" site_id="5" xmltv_id="BAND">BAND</channel>
+  <channel update="i" site="clarotv.com.br" site_id="86" xmltv_id="SBT">SBT</channel>
+  <channel update="i" site="clarotv.com.br" site_id="46" xmltv_id="Futura">Futura</channel>
+  <channel update="i" site="clarotv.com.br" site_id="317" xmltv_id="Globo HD">Globo SP HD</channel>
+  
+  <!-- ##### Canais Esporte ##### -->
+  <channel update="i" site="clarotv.com.br" site_id="75" xmltv_id="Premiere Clubes">Premiere Clubes</channel>
+  <channel update="i" site="netcombo.com.br" site_id="1064" xmltv_id="Premiere HD 2">Premiere HD 2</channel>
+  <channel update="i" site="netcombo.com.br" site_id="1165" xmltv_id="PREMIERE HD 3">PREMIERE HD 3</channel>
+  <channel update="i" site="netcombo.com.br" site_id="1166" xmltv_id="PREMIERE HD 4">PREMIERE HD 4</channel>
+  <channel update="i" site="netcombo.com.br" site_id="1167" xmltv_id="PREMIERE HD 5">PREMIERE HD 5</channel>
+  <channel update="i" site="clarotv.com.br" site_id="23" xmltv_id="Combate">Combate</channel>
+  <channel update="i" site="clarotv.com.br" site_id="227" xmltv_id="Sportv HD">SporTV</channel>
+  <channel update="i" site="clarotv.com.br" site_id="228" xmltv_id="Sportv 2 HD">Sportv 2</channel>
+  <channel update="i" site="clarotv.com.br" site_id="304" xmltv_id="Sportv3 HD">Sportv 3</channel>
+  <channel update="i" site="clarotv.com.br" site_id="35" xmltv_id="ESPN Brasil">ESPN Brasil</channel>
+  <channel update="i" site="clarotv.com.br" site_id="290" xmltv_id="ESPN HD">ESPN</channel>
+  <channel update="i" site="clarotv.com.br" site_id="92" xmltv_id="Fox Sports">Fox Sports</channel>
+  <channel update="i" site="clarotv.com.br" site_id="248" xmltv_id="Fox Sports 2">Fox Sports 2</channel>
+  <channel update="i" site="clarotv.com.br" site_id="8" xmltv_id="Band Sports">Band Sports</channel>
+  
+  <!-- ##### Canais Noticias ##### -->
+  <channel update="i" site="clarotv.com.br" site_id="49" xmltv_id="GloboNews">GloboNews</channel>
+  <channel update="i" site="clarotv.com.br" site_id="7" xmltv_id="Band News">Band News</channel>
+  
+  <!-- ##### Canais | Documentarios ##### -->
+  <channel update="i" site="clarotv.com.br" site_id="308" xmltv_id="H2 HD">H2 HD</channel>
+  <channel update="i" site="clarotv.com.br" site_id="71" xmltv_id="National Geographic">National Geographic</channel>
+  <channel update="i" site="clarotv.com.br" site_id="28" xmltv_id="Discovery Channel">Discovery Channel</channel>
+  <channel update="i" site="clarotv.com.br" site_id="167" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+  <channel update="i" site="clarotv.com.br" site_id="289" xmltv_id="Discovery Turbo HD">Discovery Turbo HD</channel>
+  <channel update="i" site="clarotv.com.br" site_id="148" xmltv_id="Animal Planet">Animal Planet</channel>
+  <channel update="i" site="clarotv.com.br" site_id="10" xmltv_id="H2">H2</channel>
+    
+  <!-- ##### Canais | Variedades ##### -->
+  <channel update="i" site="clarotv.com.br" site_id="48" xmltv_id="GNT">GNT</channel>
+  <channel update="i" site="clarotv.com.br" site_id="68" xmltv_id="Multishow">Multishow</channel>
+  <channel update="i" site="clarotv.com.br" site_id="201" xmltv_id="Globosat Mais">Globo sat</channel>
+  <channel update="i" site="clarotv.com.br" site_id="34" xmltv_id="E!">E!</channel>
+  <channel update="i" site="clarotv.com.br" site_id="211" xmltv_id="Arte 1">Arte 1</channel>
+  <channel update="i" site="clarotv.com.br" site_id="369" xmltv_id="Food Network">Food Network</channel>
+  <channel update="i" site="clarotv.com.br" site_id="203" xmltv_id="Curta!">Curta!</channel>
+  <channel update="i" site="clarotv.com.br" site_id="202" xmltv_id="BIS">BIS</channel>
+  <channel update="i" site="clarotv.com.br" site_id="246" xmltv_id="MTV">MTV</channel>
+  <channel update="i" site="clarotv.com.br" site_id="222" xmltv_id="Music Box Brazil">Music Box Brazil</channel>
+  <channel update="i" site="clarotv.com.br" site_id="188" xmltv_id="Comedy Central">Comedy Central</channel>
+  
+  <!-- ##### Canais | Infantil ##### -->
+  <channel update="i" site="clarotv.com.br" site_id="30" xmltv_id="Discovery Kids">Discovery Kids</channel>
+  <channel update="i" site="clarotv.com.br" site_id="191" xmltv_id="Gloob">Gloob</channel>
+  <channel update="i" site="clarotv.com.br" site_id="33" xmltv_id="Disney">Disney</channel>
+  <channel update="i" site="clarotv.com.br" site_id="74" xmltv_id="Nickelodeon">Nickelodeon</channel>
+  <channel update="i" site="clarotv.com.br" site_id="18" xmltv_id="Cartoon Network">Cartoon Network</channel>
+  <channel update="i" site="clarotv.com.br" site_id="32" xmltv_id="Disney XD">Disney XD</channel>
+  <channel update="i" site="clarotv.com.br" site_id="77" xmltv_id="Disney Júnior">Disney JR</channel>
+  <channel update="i" site="clarotv.com.br" site_id="77" xmltv_id="Nick Jr">Nick Jr</channel>
+  <channel update="i" site="clarotv.com.br" site_id="11" xmltv_id="Boomerang">Boomerang</channel>
+  
+  <!-- ##### Canais | Filmes e Series ##### -->
+  <channel update="i" site="clarotv.com.br" site_id="117" xmltv_id="Telecine Premium">Telecine Premium</channel>
+  <channel update="i" site="clarotv.com.br" site_id="112" xmltv_id="Telecine Action">Telecine Action</channel>
+  <channel update="i" site="clarotv.com.br" site_id="115" xmltv_id="Telecine Touch">Telecine Touch</channel>
+  <channel update="i" site="clarotv.com.br" site_id="114" xmltv_id="Telecine Fun">Telecine Fun</channel>
+  <channel update="i" site="clarotv.com.br" site_id="116" xmltv_id="Telecine Pipoca">Telecine Pipoca</channel>
+  <channel update="i" site="clarotv.com.br" site_id="113" xmltv_id="Telecine Cult">Telecine Cult</channel>
+  <channel update="i" site="clarotv.com.br" site_id="56" xmltv_id="HBO">HBO</channel>
+  <channel update="i" site="clarotv.com.br" site_id="50" xmltv_id="HBO 2">HBO 2</channel>
+  <channel update="i" site="clarotv.com.br" site_id="55" xmltv_id="HBO Plus">HBO Plus</channel>
+  <channel update="i" site="clarotv.com.br" site_id="52" xmltv_id="HBO Family">HBO Family</channel>
+  <channel update="i" site="clarotv.com.br" site_id="51" xmltv_id="HBO Signature">HBO Signature</channel>
+  <channel update="i" site="clarotv.com.br" site_id="22" xmltv_id="MAX UP">MAX UP</channel>
+  <channel update="i" site="clarotv.com.br" site_id="21" xmltv_id="Max">Max</channel>
+  <channel update="i" site="clarotv.com.br" site_id="65" xmltv_id="Max Prime">Max Prime</channel>  
+  <channel update="i" site="clarotv.com.br" site_id="2" xmltv_id="AXN">AXN</channel>
+  <channel update="i" site="clarotv.com.br" site_id="19" xmltv_id="Cinemax">Cinemax</channel>
+  <channel update="i" site="clarotv.com.br" site_id="40" xmltv_id="FOX">FOX</channel>
+  <channel update="i" site="clarotv.com.br" site_id="42" xmltv_id="FX">FX</channel>
+  <channel update="i" site="clarotv.com.br" site_id="90" xmltv_id="Sony">Sony</channel>
+  <channel update="i" site="clarotv.com.br" site_id="224" xmltv_id="TBS">TBS</channel>
+  <channel update="i" site="clarotv.com.br" site_id="67" xmltv_id="Megapix">Megapix</channel>
+  <channel update="i" site="clarotv.com.br" site_id="91" xmltv_id="Space">Space</channel>
+  <channel update="i" site="clarotv.com.br" site_id="95" xmltv_id="Studio Universal">Studio Universal</channel>
+  <channel update="i" site="clarotv.com.br" site_id="123" xmltv_id="Paramount Channel">Paramount Channel</channel>
+  <channel update="i" site="clarotv.com.br" site_id="96" xmltv_id="TCM">TCM</channel>
+  <channel update="i" site="clarotv.com.br" site_id="249" xmltv_id="Fox Life">Fox Life</channel>
+  <channel update="i" site="clarotv.com.br" site_id="148" xmltv_id="Prime Box Brazil">Prime Box Brazil</channel>
+    
+ 
+</settings>
